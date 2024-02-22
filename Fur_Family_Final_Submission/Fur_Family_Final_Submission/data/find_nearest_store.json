@@ -1,0 +1,2150 @@
+[
+    {
+        "address": "233 ANG MO KIO AVENUE 3 KEBUN BARU PALM VIEW singapore 560233",
+        "name": "181 AQUARIUM",
+        "latitude": 1.368832,
+        "longitude": 103.8372836
+    },
+    {
+        "address": "55 CHAI CHEE DRIVE singapore 460055",
+        "name": "36 HAI YANG PTE. LTD.",
+        "latitude": 1.3271729,
+        "longitude": 103.9193384
+    },
+    {
+        "address": "486 MACPHERSON ROAD singapore 368196",
+        "name": "88 EURO PETS PTE. LTD",
+        "latitude": 1.3320857,
+        "longitude": 103.8831227
+    },
+    {
+        "address": "400 BALESTIER ROAD BALESTIER PLAZA singapore 329802",
+        "name": "88 SUPERSTAR PTE. LTD.",
+        "latitude": 1.3256182,
+        "longitude": 103.8503965
+    },
+    {
+        "address": "68 JALAN JURONG KECHIL SUITES AT BUKIT TIMAH singapore 596180",
+        "name": "8WHISKERS",
+        "latitude": 1.3405968,
+        "longitude": 103.7736822
+    },
+    {
+        "address": "929 TAMPINES STREET 91 TAMPINES PALMSPRING singapore 520929",
+        "name": "929 AQUARIUM PTE. LTD.",
+        "latitude": 1.3463015,
+        "longitude": 103.9396416
+    },
+    {
+        "address": "69 LORONG 4 TOA PAYOH singapore 310069",
+        "name": "A G PETS TOA PAYOH",
+        "latitude": 1.3341946,
+        "longitude": 103.8527221
+    },
+    {
+        "address": "146 POTONG PASIR AVENUE 1 singapore 350146",
+        "name": "A1 YU ZHONG YU",
+        "latitude": 1.3317893,
+        "longitude": 103.8672346
+    },
+    {
+        "address": "124 BUKIT MERAH LANE singapore 150124",
+        "name": "ABC BIRDS CENTRE",
+        "latitude": 1.2859123,
+        "longitude": 103.8034685
+    },
+    {
+        "address": "471 GEYLANG ROAD singapore 389430",
+        "name": "AH BENG AQUARIUM",
+        "latitude": 1.313561,
+        "longitude": 103.8832374
+    },
+    {
+        "address": "197 SIMS AVE singapore 387502",
+        "name": "AIK GUAN PET TRADING",
+        "latitude": 1.3147539,
+        "longitude": 103.8802655
+    },
+    {
+        "address": "340 GEYLANG ROAD LE REGAL singapore 389365",
+        "name": "ALL AQUATIC AQUARIUM LLP",
+        "latitude": 1.3124639,
+        "longitude": 103.8800964
+    },
+    {
+        "address": "360 TANJONG KATONG ROAD singapore 437121",
+        "name": "ALTITUDE PETS GLOBAL PTE. LTD.",
+        "latitude": 1.3033284,
+        "longitude": 103.8965689
+    },
+    {
+        "address": "429 JURONG WEST AVENUE 1 singapore 640429",
+        "name": "ALVIN BETTA PTE. LTD.",
+        "latitude": 1.3519334,
+        "longitude": 103.7246207
+    },
+    {
+        "address": "61A NEIL ROAD singapore 88895",
+        "name": "ALYSSADOLLS PET INTERNATIONAL PTE. LTD.",
+        "latitude": 1.2793996,
+        "longitude": 103.8424524
+    },
+    {
+        "address": "28 HOY FATT ROAD singapore 151028",
+        "name": "AMAZON AROWANA AQUARIUM",
+        "latitude": 1.2864086,
+        "longitude": 103.8098066
+    },
+    {
+        "address": "176 ORCHARD ROAD THE CENTREPOINT singapore 238843",
+        "name": "AMB AQUATIC HUB",
+        "latitude": 1.3016573,
+        "longitude": 103.8397629
+    },
+    {
+        "address": "3 ST. GEORGE'S ROAD ST GEORGE'S WEST GARDENS singapore 320003",
+        "name": "ANGELHUB AQUATICS",
+        "latitude": 1.3230937,
+        "longitude": 103.8621033
+    },
+    {
+        "address": "462 CRAWFORD LANE singapore 190462",
+        "name": "ANGELIC SECRETS",
+        "latitude": 1.3045349,
+        "longitude": 103.8610712
+    },
+    {
+        "address": "9 KENSINGTON PARK ROAD SERANGOON GARDEN ESTATE singapore 557261",
+        "name": "ANIMAL ARTS ACADEMY PTE. LTD.",
+        "latitude": 1.3650027,
+        "longitude": 103.8661168
+    },
+    {
+        "address": "7 TAMPINES STREET 32 singapore 529285",
+        "name": "AQUA ALLEY",
+        "latitude": 1.3540021,
+        "longitude": 103.9604042
+    },
+    {
+        "address": "416 BEDOK NORTH AVE 2 singapore 460416",
+        "name": "AQUA-BIO TRADING",
+        "latitude": 1.3284617,
+        "longitude": 103.9306227
+    },
+    {
+        "address": "32 JALAN SELASEH SELETAR HILLS ESTATE singapore 808448",
+        "name": "AQUAMARIN AQUATIC PETS",
+        "latitude": 1.3854521,
+        "longitude": 103.872954
+    },
+    {
+        "address": "304 WOODLANDS ST.31 singapore 730304",
+        "name": "AQUARIA EXOTICA",
+        "latitude": 1.4299812,
+        "longitude": 103.7737622
+    },
+    {
+        "address": "6 & 8 LIM TUA TOW ROAD singapore 547725",
+        "name": "AQUARIST CHAMBER PTE. LTD.",
+        "latitude": 1.3544914,
+        "longitude": 103.875928
+    },
+    {
+        "address": "600 GEYLANG ROAD singapore 389539",
+        "name": "AQUARIUM HUB PTE. LIMITED",
+        "latitude": 1.3141092,
+        "longitude": 103.8880745
+    },
+    {
+        "address": "240 MACPHERSON ROAD PINES INDUSTRIAL BUILDING singapore 348574",
+        "name": "AQUARIUS AVENUE",
+        "latitude": 1.3296884,
+        "longitude": 103.8755711
+    },
+    {
+        "address": "808 FRENCH ROAD KITCHENER COMPLEX singapore 200808",
+        "name": "AQUARIUS NOBLE ENTERPRISE",
+        "latitude": 1.3083787,
+        "longitude": 103.8620771
+    },
+    {
+        "address": "78 REDHILL LANE singapore 150078",
+        "name": "AQUATIC AVENUE LLP",
+        "latitude": 1.2884623,
+        "longitude": 103.818411
+    },
+    {
+        "address": "53 SIMS PLACE SIMS VISTA singapore 380053",
+        "name": "AQUATIC CONNECTION AQUARIUM",
+        "latitude": 1.3182327,
+        "longitude": 103.8800122
+    },
+    {
+        "address": "31 HAMILTON ROAD singapore 209200",
+        "name": "AQUATICA GLASSELLI PTE. LTD.",
+        "latitude": 1.311657,
+        "longitude": 103.8612252
+    },
+    {
+        "address": "55 CHANGI ROAD MILLAGE singapore 419709",
+        "name": "ARISTOKATS LLP",
+        "latitude": 1.3169742,
+        "longitude": 103.8990086
+    },
+    {
+        "address": "328 CLEMENTI AVE 2 singapore 120328",
+        "name": "AROWANA AVENUE",
+        "latitude": 1.3139144,
+        "longitude": 103.7670701
+    },
+    {
+        "address": "351 JURONG EAST STREET 31 YUHUA PLACE 600351",
+        "name": "AROWANA BIRDS & FISH AQUARIUM",
+        "latitude": 1.3448615,
+        "longitude": 103.7307969
+    },
+    {
+        "address": "479 JOO CHIAT ROAD singapore 427684",
+        "name": "ART OF PETS GROOMING SCHOOL PTE. LTD.",
+        "latitude": 1.3063078,
+        "longitude": 103.904804
+    },
+    {
+        "address": "154 SERANGOON NORTH AVE 1 singapore 550154",
+        "name": "ATLANTIS AQUARIUM",
+        "latitude": 1.3697949,
+        "longitude": 103.8735377
+    },
+    {
+        "address": "843 TAMPINES STREET 83 TAMPINES VILLE singapore 520843",
+        "name": "BABYFISH PTE. LTD.",
+        "latitude": 1.3517452,
+        "longitude": 103.9350188
+    },
+    {
+        "address": "6 RUBY LANE singapore 328281",
+        "name": "BARK EMPIRE PTE. LTD.",
+        "latitude": 1.3275419,
+        "longitude": 103.8670246
+    },
+    {
+        "address": "324B CHANGI ROAD singapore 419799",
+        "name": "BARKBUZZ PUPPY'S BOUTIQUE PTE. LTD.",
+        "latitude": 1.3179055,
+        "longitude": 103.908016
+    },
+    {
+        "address": "249 JURONG EAST STREET 24 singapore 600249",
+        "name": "BARKTENDER",
+        "latitude": 1.3425344,
+        "longitude": 103.7393453
+    },
+    {
+        "address": "1 JALAN DUSUN ONE DUSUN RESIDENCES singapore 329363",
+        "name": "BETTA BROS SG",
+        "latitude": 1.3272937,
+        "longitude": 103.8437471
+    },
+    {
+        "address": "38 TELOK BLANGAH RISE singapore 90038",
+        "name": "BIRD KEEPERS",
+        "latitude": 1.2725081,
+        "longitude": 103.8223965
+    },
+    {
+        "address": "159 ANG MO KIO AVE 5 singapore 560159",
+        "name": "BIRD SHOP 159",
+        "latitude": 1.3747054,
+        "longitude": 103.8398243
+    },
+    {
+        "address": "742 BEDOK RESERVOIR ROAD singapore 470742",
+        "name": "BIRDS' TALK",
+        "latitude": 1.3380527,
+        "longitude": 103.9219724
+    },
+    {
+        "address": "3 SOUTH BUONA VISTA ROAD VIVA VISTA singapore 118136",
+        "name": "BLEUPAWS BRITISH SHORTHAIR",
+        "latitude": 1.2797197,
+        "longitude": 103.7859924
+    },
+    {
+        "address": "1120 SERANGOON ROAD singapore 328205",
+        "name": "BLUE CRYSTAL AQUARIUM PTE. LTD.",
+        "latitude": 1.3051853,
+        "longitude": 103.8509833
+    },
+    {
+        "address": "151 SERANGOON NORTH AVE 2 singapore 550151",
+        "name": "BLUE PARADISE AQUARIUM",
+        "latitude": 1.3695973,
+        "longitude": 103.8742136
+    },
+    {
+        "address": "482 MACPHERSON ROAD singapore 368194",
+        "name": "BLUE SHELTS PTE. LTD.",
+        "latitude": 1.33202,
+        "longitude": 103.8830409
+    },
+    {
+        "address": "3 SOUTH BUONA VISTA ROAD VIVA VISTA singapore 118136",
+        "name": "BLUECREST CATTERY PTE. LTD.",
+        "latitude": 1.2797197,
+        "longitude": 103.7859924
+    },
+    {
+        "address": "94 YIO CHU KANG ROAD singapore 545573",
+        "name": "BOW WOW PET CORNER",
+        "latitude": 1.3582223,
+        "longitude": 103.8749003
+    },
+    {
+        "address": "308 TELOK KURAU ROAD VIBES @ EAST COAST singapore 423858",
+        "name": "BOW WOW PETS PRIVATE LIMITED",
+        "latitude": 1.3094781,
+        "longitude": 103.9117599
+    },
+    {
+        "address": "474 MACPHERSON ROAD singapore 368190",
+        "name": "B'SMILEY CATTITUDE PTE. LTD.",
+        "latitude": 1.33202,
+        "longitude": 103.8828297
+    },
+    {
+        "address": "848 SIMS AVENUE singapore 400848",
+        "name": "BUBBLES@SA848 PTE. LTD.",
+        "latitude": 1.3171801,
+        "longitude": 103.9013037
+    },
+    {
+        "address": "325 WOODLANDS STREET 32 singapore 730325",
+        "name": "BUBBLES@W 325 PTE. LTD.",
+        "latitude": 1.4308119,
+        "longitude": 103.7794734
+    },
+    {
+        "address": "461 YISHUN AVENUE 6 singapore 760461",
+        "name": "BUBBLES@Y461 PTE. LTD.",
+        "latitude": 1.4284349,
+        "longitude": 103.8499767
+    },
+    {
+        "address": "3 SOUTH BUONA VISTA ROAD VIVA VISTA singapore 118136",
+        "name": "CATACURE PTE. LTD.",
+        "latitude": 1.2797197,
+        "longitude": 103.7859924
+    },
+    {
+        "address": "14 JALAN LEBAN SEMBAWANG HILLS ESTATE singapore 577553",
+        "name": "CATSMART SUPPLY AND DISTRIBUTION PTE. LTD.",
+        "latitude": 1.3716157,
+        "longitude": 103.8292134
+    },
+    {
+        "address": "258 PASIR RIS STREET 21 LOYANG POINT singapore 510258",
+        "name": "CATSMART SUPPLY AND DISTRIBUTION PTE. LTD.",
+        "latitude": 1.3669795,
+        "longitude": 103.9645538
+    },
+    {
+        "address": "68 JALAN JURONG KECHIL SUITES AT BUKIT TIMAH singapore 596180",
+        "name": "CATZILLA PTE. LTD.",
+        "latitude": 1.3405968,
+        "longitude": 103.7736822
+    },
+    {
+        "address": "505 ANG MO KIO AVE 8 singapore 560505",
+        "name": "CHAI DISCUS FARM",
+        "latitude": 1.3748738,
+        "longitude": 103.8501691
+    },
+    {
+        "address": "67 KALLANG BAHRU 330067",
+        "name": "CHAN YONG PET & AQUARIUM CENTRE",
+        "latitude": 1.3217528,
+        "longitude": 103.8691372
+    },
+    {
+        "address": "151 SERANGOON NORTH AVE 2 singapore 550151",
+        "name": "CHUA'S PET TRADING",
+        "latitude": 1.3695973,
+        "longitude": 103.8742136
+    },
+    {
+        "address": "328 CLEMENTI AVE 2 singapore 120328",
+        "name": "CLEMENTI FLORIST & AQUARIUM",
+        "latitude": 1.3139144,
+        "longitude": 103.7670701
+    },
+    {
+        "address": "799 NORTH BRIDGE ROAD singapore 198767",
+        "name": "COLLABSPACE PTE. LTD.",
+        "latitude": 1.3041786,
+        "longitude": 103.86026
+    },
+    {
+        "address": "160 EAST COAST ROAD singapore 428867",
+        "name": "COLLABSPACE PTE. LTD.",
+        "latitude": 1.3064461,
+        "longitude": 103.9060213
+    },
+    {
+        "address": "160 CHANGI ROAD HEXACUBE singapore 419728",
+        "name": "CORAL FANATICS",
+        "latitude": 1.3167105,
+        "longitude": 103.9024239
+    },
+    {
+        "address": "200 TURF CLUB ROAD THE GRANDSTAND singapore 287994",
+        "name": "COSY PAWS PET CARE CENTRE",
+        "latitude": 1.3380084,
+        "longitude": 103.7934418
+    },
+    {
+        "address": "114 ANG MO KIO AVENUE 4 KEBUN BARU HEIGHTS singapore 560114",
+        "name": "COTTON PUPS PRIVATE LIMITED",
+        "latitude": 1.3714168,
+        "longitude": 103.8372427
+    },
+    {
+        "address": "477 TAMPINES ST.43 singapore 520477",
+        "name": "CRS HAVEN",
+        "latitude": 1.3610456,
+        "longitude": 103.9525354
+    },
+    {
+        "address": "183 JALAN PELIKAT THE PROMENADE@PELIKAT singapore 537643",
+        "name": "CUDDLES AND PURRS",
+        "latitude": 1.3549093,
+        "longitude": 103.8875621
+    },
+    {
+        "address": "266 SERANGOON CENTRAL DRIVE singapore 550266",
+        "name": "D. P. S. FASHION ENTERPRISE",
+        "latitude": 1.3532185,
+        "longitude": 103.871625
+    },
+    {
+        "address": "262 BALESTIER ROAD OKIO singapore 329714",
+        "name": "DAILY DOGS",
+        "latitude": 1.3221625,
+        "longitude": 103.8530578
+    },
+    {
+        "address": "65 BRIGHTON CRESCENT SERANGOON GARDEN ESTATE singapore 559211",
+        "name": "DAILY DOGS @ BRIGHTON PTE. LTD.",
+        "latitude": 1.3627565,
+        "longitude": 103.8711653
+    },
+    {
+        "address": "706 GEYLANG ROAD 389621",
+        "name": "DE AQUATIC PTE. LTD.",
+        "latitude": 1.3147577,
+        "longitude": 103.8910639
+    },
+    {
+        "address": "308 TELOK KURAU ROAD VIBES @ EAST COAST singapore 423858",
+        "name": "DESIGNER BENGAL SINGAPORE PTE. LTD.",
+        "latitude": 1.3094781,
+        "longitude": 103.9117599
+    },
+    {
+        "address": "320 TANJONG KATONG ROAD singapore 437101",
+        "name": "DIAMOND WINGS HOLDING PTE. LTD.",
+        "latitude": 1.304416,
+        "longitude": 103.896328
+    },
+    {
+        "address": "154 SERANGOON NORTH AVE 1 singapore 550154",
+        "name": "DISCUS PALACE",
+        "latitude": 1.3697949,
+        "longitude": 103.8735377
+    },
+    {
+        "address": "1074 SERANGOON ROAD singapore 328179",
+        "name": "DOG AVENUE",
+        "latitude": 1.3051853,
+        "longitude": 103.8509833
+    },
+    {
+        "address": "160 CHANGI ROAD HEXACUBE singapore 419728",
+        "name": "DOGFATHER PTE. LTD.",
+        "latitude": 1.3167105,
+        "longitude": 103.9024239
+    },
+    {
+        "address": "28 GREENWOOD AVE singapore 289227",
+        "name": "DOGGIE DELIGHT PTE LTD",
+        "latitude": 1.3316282,
+        "longitude": 103.8065929
+    },
+    {
+        "address": "7 KAMPONG BAHRU ROAD singapore 169342",
+        "name": "DOLLHOUSE PETS",
+        "latitude": 1.2772288,
+        "longitude": 103.8368077
+    },
+    {
+        "address": "218 PASIR PANJANG ROAD ICON @ PASIR PANJANG singapore 118579",
+        "name": "DOODLES LOFT",
+        "latitude": 1.2792617,
+        "longitude": 103.7859138
+    },
+    {
+        "address": "50 EAST COAST ROAD ROXY SQUARE 428769",
+        "name": "DRAGER GATE AQUATICS",
+        "latitude": 1.303884,
+        "longitude": 103.9043973
+    },
+    {
+        "address": "38 TELOK BLANGAH RISE 90038",
+        "name": "DRAGON HOUSE BIRDS & ACCESSORY",
+        "latitude": 1.2725081,
+        "longitude": 103.8223965
+    },
+    {
+        "address": "324M CHANGI ROAD singapore 419799",
+        "name": "DREAMY PAWS",
+        "latitude": 1.3179055,
+        "longitude": 103.908016
+    },
+    {
+        "address": "2 JALAN LOKAM KENSINGTON SQUARE singapore 537846",
+        "name": "E HOBBY PETS AND SUPPLIES",
+        "latitude": 1.3456397,
+        "longitude": 103.8826924
+    },
+    {
+        "address": "2 JALAN LOKAM KENSINGTON SQUARE singapore 537846",
+        "name": "E HOBBY PETS AND SUPPLIES",
+        "latitude": 1.3456397,
+        "longitude": 103.8826924
+    },
+    {
+        "address": "22 HAVELOCK ROAD singapore 160022",
+        "name": "EAST OCEAN AQUATIC TRADING CENTRE",
+        "latitude": 1.288844,
+        "longitude": 103.8287358
+    },
+    {
+        "address": "1 CHANGI VILLAGE ROAD singapore 500001",
+        "name": "EASY AQUARIUM SG",
+        "latitude": 1.3885559,
+        "longitude": 103.9876144
+    },
+    {
+        "address": "333 KRETA AYER ROAD KRETA AYER HEIGHTS singapore 80333",
+        "name": "EBM TRADING",
+        "latitude": 1.2806239,
+        "longitude": 103.8425698
+    },
+    {
+        "address": "537 BEDOK NORTH STREET 3 singapore 460537",
+        "name": "EDMUND AQUATICS",
+        "latitude": 1.3317302,
+        "longitude": 103.9240089
+    },
+    {
+        "address": "1 WEST COAST DRIVE NEWEST singapore 128020",
+        "name": "EMPIRE EXOTIC AROWANA",
+        "latitude": 1.3164853,
+        "longitude": 103.7573965
+    },
+    {
+        "address": "259 JURONG EAST STREET 24 singapore 600259",
+        "name": "FEATHERS & FUR @JURONG",
+        "latitude": 1.3441689,
+        "longitude": 103.739825
+    },
+    {
+        "address": "2 BALESTIER ROAD BALESTIER HILL SHOPPING CENTRE singapore 320002",
+        "name": "FEATHERS & FUR PETMART",
+        "latitude": 1.3258546,
+        "longitude": 103.8428618
+    },
+    {
+        "address": "228 CHANGI ROAD ICON@CHANGI singapore 419741",
+        "name": "FEIMAO ENTERPRISES PTE. LTD.",
+        "latitude": 1.3172446,
+        "longitude": 103.9046764
+    },
+    {
+        "address": "337 JOO CHIAT ROAD singapore 427590",
+        "name": "FEIMAO ENTERPRISES PTE. LTD.",
+        "latitude": 1.3089616,
+        "longitude": 103.9029136
+    },
+    {
+        "address": "684 HOUGANG AVE 8 singapore 530684",
+        "name": "FISH A PET",
+        "latitude": 1.3742687,
+        "longitude": 103.8866118
+    },
+    {
+        "address": "96C JALAN SENANG singapore418483",
+        "name": "FISHY BUSINESS ELEMENTS PTE. LTD",
+        "latitude": 1.3270479,
+        "longitude": 103.9167913
+    },
+    {
+        "address": "117 COMMONWEALTH DRIVE singapore 140117",
+        "name": "FJM TRADING",
+        "latitude": 1.3066305,
+        "longitude": 103.8002085
+    },
+    {
+        "address": "555A BALESTIER ROAD singapore 329871",
+        "name": "FLUFFYDOLLS CATFE PTE. LTD.",
+        "latitude": 1.3263524,
+        "longitude": 103.8448264
+    },
+    {
+        "address": "79 UPPER EAST COAST ROAD GOODWILL COURT singapore 455219",
+        "name": "FRESH N MARINE PTE. LTD.",
+        "latitude": 1.3133545,
+        "longitude": 103.9275763
+    },
+    {
+        "address": "443 ANG MO KIO AVENUE 10 singapore 560443",
+        "name": "FRESH N MARINE PTE. LTD.",
+        "latitude": 1.3661487,
+        "longitude": 103.8552796
+    },
+    {
+        "address": "302 LAVENDER STREET singapore 338811",
+        "name": "FRIENDS FUR LIFE PTE. LTD.",
+        "latitude": 1.3149896,
+        "longitude": 103.8597749
+    },
+    {
+        "address": "537 BEDOK NORTH STREET 3 singapore 460537",
+        "name": "FUR ARTS GROOMING SALON",
+        "latitude": 1.3317302,
+        "longitude": 103.9240089
+    },
+    {
+        "address": "427 EAST COAST ROAD singapore 429014",
+        "name": "FUR FAIRY CAT HOUSE",
+        "latitude": 1.3090925,
+        "longitude": 103.9118841
+    },
+    {
+        "address": "466 MACPHERSON ROAD singapore 368184",
+        "name": "FUREVER LOVE PTE. LTD.",
+        "latitude": 1.3319648,
+        "longitude": 103.8826675
+    },
+    {
+        "address": "151 SERANGOON NORTH AVE 2 singapore 550151",
+        "name": "FWU HAE PET SHOP",
+        "latitude": 1.3695973,
+        "longitude": 103.8742136
+    },
+    {
+        "address": "3 SOUTH BUONA VISTA ROAD VIVA VISTA singapore 118136",
+        "name": "GALEKSY SG PTE. LTD.",
+        "latitude": 1.2797197,
+        "longitude": 103.7859924
+    },
+    {
+        "address": "183 JALAN PELIKAT THE PROMENADE@PELIKAT singapore 537643",
+        "name": "GENETIQUE PRIVATE LIMITED",
+        "latitude": 1.3549093,
+        "longitude": 103.8875621
+    },
+    {
+        "address": "183 JALAN PELIKAT THE PROMENADE@PELIKAT singapore 537643",
+        "name": "GETTABETTASG",
+        "latitude": 1.3549093,
+        "longitude": 103.8875621
+    },
+    {
+        "address": "46 JALAN BUKIT HO SWEE THE BEO CRESCENT singapore 160046",
+        "name": "GOLDFISH PALACE",
+        "latitude": 1.2882996,
+        "longitude": 103.8261691
+    },
+    {
+        "address": "154 SERANGOON NORTH AVE 1 singapore 550154",
+        "name": "GOODWILL BIRDS TRADING",
+        "latitude": 1.3697949,
+        "longitude": 103.8735377
+    },
+    {
+        "address": "565 MACPHERSON ROAD singapore 368234",
+        "name": "GREEN CHAPTER PTE LTD",
+        "latitude": 1.3327896,
+        "longitude": 103.8850664
+    },
+    {
+        "address": "4 SAGO LANE KRETA AYER HEIGHTS singapore 50004",
+        "name": "GREEN FINGERS AQUARIST PTE. LTD.",
+        "latitude": 1.2817753,
+        "longitude": 103.8429707
+    },
+    {
+        "address": "6001 BEACH ROAD GOLDEN MILE TOWER singapore 199589",
+        "name": "HAMSTER HAVEN",
+        "latitude": 1.3019677,
+        "longitude": 103.8641024
+    },
+    {
+        "address": "746 BEDOK RESERVOIR ROAD singapore 470746",
+        "name": "HAN ZI PET SHOP",
+        "latitude": 1.3372049,
+        "longitude": 103.9212644
+    },
+    {
+        "address": "93 KOVAN ROAD VIBES @ KOVAN singapore 548178",
+        "name": "HAPPYPAWS",
+        "latitude": 1.3548088,
+        "longitude": 103.8776229
+    },
+    {
+        "address": "154 SERANGOON NORTH AVE 1 singapore 550154",
+        "name": "HEISENBERG PET & AQUARIUM CENTRE",
+        "latitude": 1.3697949,
+        "longitude": 103.8735377
+    },
+    {
+        "address": "270 JOO CHIAT ROAD singapore 427524",
+        "name": "HELLO HUMAN PTE. LTD.",
+        "latitude": 1.310985,
+        "longitude": 103.9011549
+    },
+    {
+        "address": "306 CHOA CHU KANG AVENUE 4 singapore 680306",
+        "name": "HONG YANG AQUARIUM N PETS ACCESSORIES",
+        "latitude": 1.3849645,
+        "longitude": 103.74281
+    },
+    {
+        "address": "154 SERANGOON NORTH AVE 1 singapore 550154",
+        "name": "HOUSE OF CHINCHILLA",
+        "latitude": 1.3697949,
+        "longitude": 103.8735377
+    },
+    {
+        "address": "98 YIO CHU KANG ROAD singapore 545575",
+        "name": "HOUSE OF DISCUS",
+        "latitude": 1.3582831,
+        "longitude": 103.8748396
+    },
+    {
+        "address": "155 STILL ROAD BOON COURT singapore 423992",
+        "name": "HOUSE OF PUPS SIGNATURE",
+        "latitude": 1.315549,
+        "longitude": 103.905502
+    },
+    {
+        "address": "910F UPPER THOMSON ROAD singapore 787112",
+        "name": "IMPERIAL PET SHOP",
+        "latitude": 1.3987008,
+        "longitude": 103.8182062
+    },
+    {
+        "address": "215K UPPER THOMSON ROAD THOMSON RIDGE singapore 574349",
+        "name": "INU TOWN PTE. LTD.",
+        "latitude": 1.3522812,
+        "longitude": 103.8349765
+    },
+    {
+        "address": "333 KRETA AYER ROAD KRETA AYER HEIGHTS singapore 80333",
+        "name": "I-PETS",
+        "latitude": 1.2806239,
+        "longitude": 103.8425698
+    },
+    {
+        "address": "9 KING ALBERT PARK KAP singapore 598332",
+        "name": "IVEN BETTA",
+        "latitude": 1.3370239,
+        "longitude": 103.7794324
+    },
+    {
+        "address": "251 CHANGI ROAD singapore 419743",
+        "name": "JAMES BIRD SHOP",
+        "latitude": 1.3176108,
+        "longitude": 103.9054246
+    },
+    {
+        "address": "170 EAST COAST ROAD singapore 428876",
+        "name": "JARDIN DE PAWS",
+        "latitude": 1.3065376,
+        "longitude": 103.9062066
+    },
+    {
+        "address": "1 IRVING PLACE THE COMMERZE@IRVING singapore 369546",
+        "name": "JC AQUATIC TRADING PTE. LTD.",
+        "latitude": 1.3362172,
+        "longitude": 103.8863521
+    },
+    {
+        "address": "463 JURONG WEST STREET 41 singapore 640463",
+        "name": "JUNGLE LITTLE LAND",
+        "latitude": 1.3506404,
+        "longitude": 103.7231707
+    },
+    {
+        "address": "430 UPPER CHANGI ROAD EAST VILLAGE singapore 487048",
+        "name": "JUST BETTA",
+        "latitude": 1.3319093,
+        "longitude": 103.9460858
+    },
+    {
+        "address": "68 JALAN JURONG KECHIL SUITES AT BUKIT TIMAH singapore 596180",
+        "name": "JZXONLINE",
+        "latitude": 1.3405968,
+        "longitude": 103.7736822
+    },
+    {
+        "address": "201D TAMPINES STREET 21 singapore 524201",
+        "name": "K&K AQUARIUM & BIRD CENTRE",
+        "latitude": 1.3516213,
+        "longitude": 103.9489696
+    },
+    {
+        "address": "84 BEDOK NORTH STREET 4 singapore 460084",
+        "name": "K1 PETS SHOP",
+        "latitude": 1.3318119,
+        "longitude": 103.9396416
+    },
+    {
+        "address": "50 EAST COAST ROAD ROXY SQUARE 1 singapore 428769",
+        "name": "KELSONBETTA",
+        "latitude": 1.3039864,
+        "longitude": 103.9043811
+    },
+    {
+        "address": "509 BEDOK NORTH STREET 3 singapore 460509",
+        "name": "KEOW SONG BIRDS' TRADING",
+        "latitude": 1.3338382,
+        "longitude": 103.9308493
+    },
+    {
+        "address": "416 BEDOK NORTH AVE 2 singapore 460416",
+        "name": "KOHAKU AQUARIUM AND FISHING ACCESSORIES",
+        "latitude": 1.3284617,
+        "longitude": 103.9306227
+    },
+    {
+        "address": "100 JALAN SULTAN SULTAN PLAZA singapore 199001",
+        "name": "KS CARLOS AQUARIUM",
+        "latitude": 1.303101,
+        "longitude": 103.8619338
+    },
+    {
+        "address": "716 YISHUN STREET 71 singapore 760716",
+        "name": "KS PETS HUB",
+        "latitude": 1.4264076,
+        "longitude": 103.827649
+    },
+    {
+        "address": "3 SOUTH BUONA VISTA ROAD VIVA VISTA singapore 118136",
+        "name": "KW SHRIMPS",
+        "latitude": 1.2797197,
+        "longitude": 103.7859924
+    },
+    {
+        "address": "532 ANG MO KIO AVENUE 10 CHENG SAN CENTRE singapore 560532",
+        "name": "KWONG FATT PETS CENTRE",
+        "latitude": 1.3736377,
+        "longitude": 103.8546048
+    },
+    {
+        "address": "8 EUNOS CRESCENT singapore 400008",
+        "name": "LAKE VIEW AQUARIUM",
+        "latitude": 1.321374,
+        "longitude": 103.9046615
+    },
+    {
+        "address": "1 ROCHDALE ROAD singapore 535814",
+        "name": "LAVISH PET CENTRE LLP",
+        "latitude": 1.3434244,
+        "longitude": 103.8833805
+    },
+    {
+        "address": "141 SIMS AVE singapore 387463",
+        "name": "LEE AH LENG BIRD SHOP",
+        "latitude": 1.3144585,
+        "longitude": 103.8781922
+    },
+    {
+        "address": "548 WOODLANDS DRIVE 44 VISTA POINT singapore 730548",
+        "name": "LENG KUAN AQUATIC AND TRADING",
+        "latitude": 1.4313837,
+        "longitude": 103.7938289
+    },
+    {
+        "address": "328 CLEMENTI AVENUE 2 singapore 120328",
+        "name": "LFS AQUARIUM PTE. LTD.",
+        "latitude": 1.3139144,
+        "longitude": 103.7670701
+    },
+    {
+        "address": "631 BEDOK RESERVOIR ROAD EUNOS GROVE singapore 470631",
+        "name": "LITRAMIN FISH FOOD PRODUCTS AND COMPANY",
+        "latitude": 1.3332172,
+        "longitude": 103.9148295
+    },
+    {
+        "address": "2 JALAN LOKAM KENSINGTON SQUARE singapore 537846",
+        "name": "LITTLE BLACK NOSE",
+        "latitude": 1.3456397,
+        "longitude": 103.8826924
+    },
+    {
+        "address": "190 JOO CHIAT ROAD singapore 427461",
+        "name": "LITTLE CATS & CO PTE. LTD.",
+        "latitude": 1.3124301,
+        "longitude": 103.9001644
+    },
+    {
+        "address": "928 YISHUN CENTRAL 1 singapore 760928",
+        "name": "LITTLE PETS KINGDOM",
+        "latitude": 1.4270808,
+        "longitude": 103.8375217
+    },
+    {
+        "address": "157 ANG MO KIO AVENUE 4 MAYFLOWER SHOPPING & FOOD CENTRE singapore 560157",
+        "name": "LONG CHENG AQUARIUM",
+        "latitude": 1.3748824,
+        "longitude": 103.8398524
+    },
+    {
+        "address": "53 SIMS PLACE SIMS VISTA singapore 380053",
+        "name": "M.QK SERVICES",
+        "latitude": 1.3182327,
+        "longitude": 103.8800122
+    },
+    {
+        "address": "607 ANG MO KIO AVENUE 4 singapore 560607",
+        "name": "MADPETZ AQUATIC STUDIO LLP",
+        "latitude": 1.3803646,
+        "longitude": 103.8387898
+    },
+    {
+        "address": "50 GAMBAS CRESCENT PROXIMA@GAMBAS singapore 757022",
+        "name": "MADSHRIMP LLP",
+        "latitude": 1.4421654,
+        "longitude": 103.8182778
+    },
+    {
+        "address": "12 FLANDERS SQUARE singapore 209300",
+        "name": "MAME PTE. LTD.",
+        "latitude": 1.312259,
+        "longitude": 103.8574488
+    },
+    {
+        "address": "9 KING ALBERT PARK KAP singapore 598332",
+        "name": "MEWTANTS & WOOFS",
+        "latitude": 1.3370239,
+        "longitude": 103.7794324
+    },
+    {
+        "address": "340 GEYLANG ROAD LE REGAL singapore 389365",
+        "name": "MIAODIALOGY PTE. LTD.",
+        "latitude": 1.3124639,
+        "longitude": 103.8800964
+    },
+    {
+        "address": "265 BUKIT BATOK EAST AVENUE 4 singapore 650265",
+        "name": "MINI PET STORE",
+        "latitude": 1.3500846,
+        "longitude": 103.7599408
+    },
+    {
+        "address": "43 KAMPONG BAHRU ROAD singapore 169359",
+        "name": "MINISTRY OF PUP LLP",
+        "latitude": 1.276847,
+        "longitude": 103.836264
+    },
+    {
+        "address": "68 JALAN JURONG KECHIL SUITES AT BUKIT TIMAH singapore 596180",
+        "name": "MINISTRY OF RAY",
+        "latitude": 1.3405968,
+        "longitude": 103.7736822
+    },
+    {
+        "address": "110 YISHUN RING ROAD singapore 760110",
+        "name": "MINNIE'S CHINCHILLAS PTE. LTD.",
+        "latitude": 1.4336611,
+        "longitude": 103.8292839
+    },
+    {
+        "address": "3 SOUTH BUONA VISTA ROAD VIVA VISTA singapore 118136",
+        "name": "MIRACULOUS CATCH AQUARIUM",
+        "latitude": 1.2797197,
+        "longitude": 103.7859924
+    },
+    {
+        "address": "12 JALAN SELASEH SELETAR HILLS ESTATE singapore 808438",
+        "name": "MOFU HOUSE",
+        "latitude": 1.3862448,
+        "longitude": 103.873414
+    },
+    {
+        "address": "55 CHANGI ROAD MILLAGE singapore 419709",
+        "name": "MY BETTA GALLERY",
+        "latitude": 1.3169742,
+        "longitude": 103.8990086
+    },
+    {
+        "address": "1 THOMSON ROAD singapore 300001",
+        "name": "NA NATURE AQUARIUM",
+        "latitude": 1.3253453,
+        "longitude": 103.84232
+    },
+    {
+        "address": "374 BUKIT BATOK ST.31 singapore 650374",
+        "name": "NATURE FRIENDS",
+        "latitude": 1.3581629,
+        "longitude": 103.7507487
+    },
+    {
+        "address": "211 HOUGANG STREET 21 singapore 530211",
+        "name": "NEO KIM SUEY AQUARIUM",
+        "latitude": 1.3595831,
+        "longitude": 103.8877112
+    },
+    {
+        "address": "865 MOUNTBATTEN ROAD KATONG SHOPPING CENTRE singapore 437844",
+        "name": "NEW KATONG AQUARIUM",
+        "latitude": 1.303903,
+        "longitude": 103.9011732
+    },
+    {
+        "address": "181 UPPER PAYA LEBAR ROAD singapore 534866",
+        "name": "OCEANIA REEFZ",
+        "latitude": 1.3400209,
+        "longitude": 103.8851339
+    },
+    {
+        "address": "76 HORNE ROAD singapore 209077",
+        "name": "OH MY FISH",
+        "latitude": 1.3106456,
+        "longitude": 103.86076
+    },
+    {
+        "address": "259 UPPER THOMSON ROAD SOO CHOW GARDEN singapore 574386",
+        "name": "OMO OMO PET SHOP (PRIVATE LIMITED)",
+        "latitude": 1.3535183,
+        "longitude": 103.833457
+    },
+    {
+        "address": "51 LORONG 6 TOA PAYOH EAST PAYOH PALM singapore 310051",
+        "name": "ONE STOP AQUARIUM",
+        "latitude": 1.3378038,
+        "longitude": 103.85223
+    },
+    {
+        "address": "482 SERANGOON ROAD singapore 218149",
+        "name": "ONLYFURS PTE. LTD.",
+        "latitude": 1.313843,
+        "longitude": 103.857198
+    },
+    {
+        "address": "1 TOWNSHEND ROAD singapore 207599",
+        "name": "ONLYPAWS",
+        "latitude": 1.3076578,
+        "longitude": 103.8582208
+    },
+    {
+        "address": "809 FRENCH ROAD KITCHENER COMPLEX singapore 200809",
+        "name": "OTOLITH ENRICHMENT",
+        "latitude": 1.3083787,
+        "longitude": 103.8620771
+    },
+    {
+        "address": "3 SOUTH BUONA VISTA ROAD VIVA VISTA singapore 118136",
+        "name": "PAPI PURR PAWZ PTE. LTD.",
+        "latitude": 1.2797197,
+        "longitude": 103.7859924
+    },
+    {
+        "address": "139 TAMPINES STREET 11 singapore 521139",
+        "name": "PAWFECT PARADISE PTE. LTD.",
+        "latitude": 1.3465107,
+        "longitude": 103.9445593
+    },
+    {
+        "address": "278 EAST COAST ROAD singapore 428944",
+        "name": "PAWFECT PETS PTE. LTD.",
+        "latitude": 1.3081718,
+        "longitude": 103.9089705
+    },
+    {
+        "address": "1026 SEMBAWANG ROAD singapore 758499",
+        "name": "PAWFESSIONAL PTE. LTD.",
+        "latitude": 1.4324737,
+        "longitude": 103.8267156
+    },
+    {
+        "address": "39 KAMPONG BAHRU ROAD singapore 169357",
+        "name": "PAWS & PALS HOLDINGS PTE. LTD.",
+        "latitude": 1.276918,
+        "longitude": 103.8362553
+    },
+    {
+        "address": "482 GEYLANG ROAD singapore 389441",
+        "name": "PAWS AND WOOFERS PTE. LTD.",
+        "latitude": 1.3134436,
+        "longitude": 103.8845022
+    },
+    {
+        "address": "685 RACE COURSE ROAD singapore 210685",
+        "name": "PAWSOME WOOF PTE. LTD.",
+        "latitude": 1.3139721,
+        "longitude": 103.8567281
+    },
+    {
+        "address": "212 CHANGI ROAD singapore 419735",
+        "name": "PAWSOME.SG PTE. LTD.",
+        "latitude": 1.3171104,
+        "longitude": 103.9039091
+    },
+    {
+        "address": "35 ENG KONG TERRACE ENG KONG PARK singapore 599008",
+        "name": "PET FABLES PTE. LTD.",
+        "latitude": 1.3361463,
+        "longitude": 103.768619
+    },
+    {
+        "address": "100 TRAS STREET 100AM singapore 79027",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.2750063,
+        "longitude": 103.8435656
+    },
+    {
+        "address": "888 WOODLANDS DRIVE 50 888 PLAZA singapore 730888",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.438178,
+        "longitude": 103.7955224
+    },
+    {
+        "address": "370 ALEXANDRA ROAD ANCHOR POINT singapore 159953",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.2887706,
+        "longitude": 103.8050762
+    },
+    {
+        "address": "345 BEDOK ROAD singapore 469530",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.33138,
+        "longitude": 103.94732
+    },
+    {
+        "address": "311 NEW UPPER CHANGI ROAD BEDOK MALL singapore 467360",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3247162,
+        "longitude": 103.929343
+    },
+    {
+        "address": "271 BUKIT TIMAH RD BALMORAL PLAZA singapore 259708",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3165626,
+        "longitude": 103.8354572
+    },
+    {
+        "address": "51 ANG MO KIO AVE 3 BIG MAC CENTRE singapore 569922",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3693611,
+        "longitude": 103.8472741
+    },
+    {
+        "address": "3155 COMMONWEALTH AVE WEST THE CLEMENTI MALL singapore 129588",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.314918,
+        "longitude": 103.7643089
+    },
+    {
+        "address": "10 CHUN TIN RD singapore 599597",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3420314,
+        "longitude": 103.775133
+    },
+    {
+        "address": "625 ELIAS ROAD ELIAS MALL singapore 510625",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3786144,
+        "longitude": 103.9420438
+    },
+    {
+        "address": "4 HILLVIEW RISE THE HILLER singapore 667979",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3629411,
+        "longitude": 103.7641958
+    },
+    {
+        "address": "21 HOUGANG STREET 51 HOUGANG GREEN singapore 538719",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3795596,
+        "longitude": 103.8880715
+    },
+    {
+        "address": "205 HOUGANG ST 21 HEARTLAND MALL singapore 530205",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.359469,
+        "longitude": 103.8851289
+    },
+    {
+        "address": "31A/33A LORONG LIPUT HOLLAND VILLAGE singapore 277744",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3105969,
+        "longitude": 103.7950681
+    },
+    {
+        "address": "2 JURONG EAST ST 21 IMM BUILDING singapore 609601",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3348154,
+        "longitude": 103.7468395
+    },
+    {
+        "address": "1 WOODLANDS RD JUNCTION 10 singapore 677899",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3803977,
+        "longitude": 103.7599579
+    },
+    {
+        "address": "9 BISHAN PLACE JUNCTION 8 SHOPPING CENTRE singapore 579837",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3506808,
+        "longitude": 103.8487631
+    },
+    {
+        "address": "50 JURONG GATEWAY ROAD JEM singapore 608549",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.332647,
+        "longitude": 103.7433111
+    },
+    {
+        "address": "8 JALAN LEBAN SEMBAWANG HILLS ESTATE singapore 577550",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3732162,
+        "longitude": 103.8301171
+    },
+    {
+        "address": "21 CHOA CHU KANG AVE 4 LOT 1 SHOPPERS' MALL singapore 689812",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3851169,
+        "longitude": 103.7449142
+    },
+    {
+        "address": "23 SERANGOON CENTRAL NEX singapore 556083",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3507155,
+        "longitude": 103.8720247
+    },
+    {
+        "address": "11 TANJONG KATONG ROAD ONE KM singapore 437157",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3147748,
+        "longitude": 103.8949491
+    },
+    {
+        "address": "200 VICTORIA STREET BUGIS JUNCTION singapore 188021",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.2993754,
+        "longitude": 103.8555261
+    },
+    {
+        "address": "68 ORCHARD ROAD PLAZA SINGAPURA singapore 238839",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3005317,
+        "longitude": 103.8452356
+    },
+    {
+        "address": "80 MARINE PARADE ROAD PARKWAY PARADE singapore 449269",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3013366,
+        "longitude": 103.9052333
+    },
+    {
+        "address": "10 KENSINGTON PARK ROAD singapore 557262",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3650413,
+        "longitude": 103.8661587
+    },
+    {
+        "address": "725 EAST COAST RD singapore 459072",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3123762,
+        "longitude": 103.9228732
+    },
+    {
+        "address": "33 SENGKANG WEST AVE THE SELETAR MALL singapore 797653",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3915208,
+        "longitude": 103.8760834
+    },
+    {
+        "address": "3 TEMASEK BOULEVARD SUNTEC CITY MALL singapore 38983",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.29503,
+        "longitude": 103.8583026
+    },
+    {
+        "address": "139 TAMPINES ST 11 singapore 521139",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3465107,
+        "longitude": 103.9445593
+    },
+    {
+        "address": "4 TAMPINES CENTRAL 5 TAMPINES MALL singapore 529510",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.352451,
+        "longitude": 103.9446732
+    },
+    {
+        "address": "11 TAMPINES ST 32 singapore 529287",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3544637,
+        "longitude": 103.9600121
+    },
+    {
+        "address": "301 UPPER THOMSON RD THOMSON PLAZA singapore 574408",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3548,
+        "longitude": 103.8308
+    },
+    {
+        "address": "177 TOA PAYOH CENTRAL singapore 310177",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3339182,
+        "longitude": 103.8490452
+    },
+    {
+        "address": "491 RIVER VALLEY ROAD VALLEY POINT singapore 248371",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.2933441,
+        "longitude": 103.8271408
+    },
+    {
+        "address": "154 WEST COAST ROAD WEST COAST PLAZA singapore 127371",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.303702,
+        "longitude": 103.7659312
+    },
+    {
+        "address": "30 WOODLANDS AVE 1 THE WOODGROVE singapore 739065",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.4291794,
+        "longitude": 103.7810782
+    },
+    {
+        "address": "1 NORTHPOINT DRIVE NORTHPOINT CITY singapore 768019",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.4281699,
+        "longitude": 103.8361007
+    },
+    {
+        "address": "1 PASIR RIS CENTRAL STREET 3 WHITE SANDS singapore singapore518457",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3724166,
+        "longitude": 103.9496584
+    },
+    {
+        "address": "494 CHANGI ROAD singapore 419901",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3192978,
+        "longitude": 103.9138766
+    },
+    {
+        "address": "221 BOON LAY PLACE BOON LAY SHOPPING CENTRE singapore 640221",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3462447,
+        "longitude": 103.7125599
+    },
+    {
+        "address": "793 BUKIT TIMAH ROAD singapore 269765",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3310399,
+        "longitude": 103.7962015
+    },
+    {
+        "address": "1 JALAN ANAK BUKIT BUKIT TIMAH PLAZA singapore 588996",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3387468,
+        "longitude": 103.7786758
+    },
+    {
+        "address": "133 NEW BRIDGE ROAD CHINATOWN POINT singapore 59413",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.28535,
+        "longitude": 103.845069
+    },
+    {
+        "address": "1 KIM SENG PROMENADE GREAT WORLD CITY singapore 237994",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.2936417,
+        "longitude": 103.8319293
+    },
+    {
+        "address": "17 PETIR ROAD HILLION MALL singapore 678278",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3785144,
+        "longitude": 103.7630196
+    },
+    {
+        "address": "1 VISTA EXCHANGE GREEN THE STAR VISTA singapore 138617",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3068072,
+        "longitude": 103.7883997
+    },
+    {
+        "address": "163 TANGLIN ROAD TANGLIN MALL singapore 247933",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3048437,
+        "longitude": 103.8238278
+    },
+    {
+        "address": "1 HARBOURFRONT WALK VIVO CITY singapore 98585",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.2648859,
+        "longitude": 103.8221267
+    },
+    {
+        "address": "83 PUNGGOL CENTRAL WATERWAY POINT singapore 828761",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.4064412,
+        "longitude": 103.9020846
+    },
+    {
+        "address": "20 AH HOOD ROAD ZHONGSHAN MALL singapore 329984",
+        "name": "PET LOVERS CENTRE PTE. LTD.",
+        "latitude": 1.3270618,
+        "longitude": 103.8464431
+    },
+    {
+        "address": "151 SERANGOON NORTH AVE 2 singapore 550151",
+        "name": "PET MART PTE LTD",
+        "latitude": 1.3695973,
+        "longitude": 103.8742136
+    },
+    {
+        "address": "3 SIMEI STREET 6 EASTPOINT MALL singapore 528833",
+        "name": "PET MASTER",
+        "latitude": 1.3427145,
+        "longitude": 103.9530415
+    },
+    {
+        "address": "206 BEDOK NORTH STREET 1 BEDOK CENTRAL AREA OFFICE singapore 460206",
+        "name": "PET MASTER",
+        "latitude": 1.3265574,
+        "longitude": 103.9309852
+    },
+    {
+        "address": "48 JOO CHIAT PLACE singapore 427772",
+        "name": "PET ME PLEASE SG PTE. LTD.",
+        "latitude": 1.3134082,
+        "longitude": 103.9014371
+    },
+    {
+        "address": "2 RUBY LANE singapore 328277",
+        "name": "PET OF MINE PRIVATE LIMITED",
+        "latitude": 1.3277768,
+        "longitude": 103.8671438
+    },
+    {
+        "address": "233 YISHUN STREET 21 singapore 760233",
+        "name": "PETMANIA PTE. LTD.",
+        "latitude": 1.4347877,
+        "longitude": 103.8382376
+    },
+    {
+        "address": "883 BUKIT TIMAH ROAD singapore 279894",
+        "name": "PETS ATELIER PTE. LTD.",
+        "latitude": 1.3327479,
+        "longitude": 103.7909849
+    },
+    {
+        "address": "20 JALAN SELASEH SELETAR HILLS ESTATE singapore 808442",
+        "name": "PETS EVERYTHING TODAY PTE. LTD.",
+        "latitude": 1.3856436,
+        "longitude": 103.872959
+    },
+    {
+        "address": "92 LORONG 4 TOA PAYOH singapore 310092",
+        "name": "PETS' GANTRY",
+        "latitude": 1.3380627,
+        "longitude": 103.8494549
+    },
+    {
+        "address": "230 UPPER THOMSON ROAD THOMSON GARDEN ESTATE singapore 574423",
+        "name": "PETS PHILOSOPHY PTE. LTD.",
+        "latitude": 1.3531841,
+        "longitude": 103.8352429
+    },
+    {
+        "address": "1 WOODLANDS SQUARE CAUSEWAY POINT singapore 738099",
+        "name": "PETS' STATION HOLDING PTE LTD",
+        "latitude": 1.4360933,
+        "longitude": 103.7859471
+    },
+    {
+        "address": "1 JURONG WEST CENTRAL 2 JURONG POINT singapore 648886",
+        "name": "PETS' STATION HOLDING PTE LTD",
+        "latitude": 1.3397443,
+        "longitude": 103.7067297
+    },
+    {
+        "address": "16A MAJU AVENUE singapore 556692",
+        "name": "PETS' STATION HOLDING PTE LTD",
+        "latitude": 1.3651642,
+        "longitude": 103.8655818
+    },
+    {
+        "address": "681 PUNGGOL DRIVE OASIS TERRACES singapore 820681",
+        "name": "PETS' STATION HOLDING PTE LTD",
+        "latitude": 1.4026301,
+        "longitude": 103.9129247
+    },
+    {
+        "address": "30 SEMBAWANG DRIVE SUN PLAZA singapore 757713",
+        "name": "PETS' STREET",
+        "latitude": 1.4481945,
+        "longitude": 103.8196247
+    },
+    {
+        "address": "46 JALAN EUNOS singapore 419504",
+        "name": "PETS TALES",
+        "latitude": 1.3210336,
+        "longitude": 103.9054723
+    },
+    {
+        "address": "160 CHANGI ROAD HEXACUBE singapore 419728",
+        "name": "PETS&CO PTE. LTD.",
+        "latitude": 1.3167105,
+        "longitude": 103.9024239
+    },
+    {
+        "address": "154 SERANGOON NORTH AVE 1 singapore 550154",
+        "name": "PETS'S KIOSK PET SALON",
+        "latitude": 1.3697949,
+        "longitude": 103.8735377
+    },
+    {
+        "address": "243 TANJONG KATONG ROAD singapore 437031",
+        "name": "PETSVALE ANIMAL CARE PTE LTD",
+        "latitude": 1.308335,
+        "longitude": 103.8951641
+    },
+    {
+        "address": "114 YIO CHU KANG ROAD singapore 545581",
+        "name": "PETSVALE ANIMAL COTTAGE PTE. LTD.",
+        "latitude": 1.3586096,
+        "longitude": 103.8745713
+    },
+    {
+        "address": "31A/33A LORONG LIPUT singapore 277742",
+        "name": "PICK A PET PTE. LTD.",
+        "latitude": 1.3105969,
+        "longitude": 103.7950681
+    },
+    {
+        "address": "23 SERANGOON CENTRAL NEX MALL singapore 556083",
+        "name": "PICK A PET PTE. LTD.",
+        "latitude": 1.3507155,
+        "longitude": 103.8720247
+    },
+    {
+        "address": "1 VISTA EXCHANGE GREEN THE STAR VISTA singapore 138617",
+        "name": "PICK A PET PTE. LTD.",
+        "latitude": 1.3068072,
+        "longitude": 103.7883997
+    },
+    {
+        "address": "1 HARBOURFRONT WALK VIVO CITY singapore 98585",
+        "name": "PICK A PET PTE. LTD.",
+        "latitude": 1.2648859,
+        "longitude": 103.8221267
+    },
+    {
+        "address": "164 TAMPINES STREET 12 singapore 521164",
+        "name": "PINNACLE AQUATICS & MARINE SPECIALIST",
+        "latitude": 1.3496375,
+        "longitude": 103.9460636
+    },
+    {
+        "address": "237B JOO CHIAT ROAD singapore 427494",
+        "name": "PLAYGROUND CATTERY",
+        "latitude": 1.3109486,
+        "longitude": 103.9013547
+    },
+    {
+        "address": "84 BEDOK NORTH STREET 4 singapore 460084",
+        "name": "POLYART AQUARIUM",
+        "latitude": 1.3318119,
+        "longitude": 103.9396416
+    },
+    {
+        "address": "265 BUKIT BATOK EAST AVE 4 singapore 650265",
+        "name": "POLYART AQUARIUM",
+        "latitude": 1.3500846,
+        "longitude": 103.7599408
+    },
+    {
+        "address": "328 CLEMENTI AVE 2 singapore 120328",
+        "name": "POLYART AQUARIUM",
+        "latitude": 1.3139144,
+        "longitude": 103.7670701
+    },
+    {
+        "address": "4 SAGO LANE singapore 50004",
+        "name": "POLYART AQUARIUM",
+        "latitude": 1.2817753,
+        "longitude": 103.8429707
+    },
+    {
+        "address": "934 YISHUN CENTRAL 1 singapore 760934",
+        "name": "POLYART AQUARIUM",
+        "latitude": 1.425757,
+        "longitude": 103.836589
+    },
+    {
+        "address": "4 SAGO LANE KRETA AYER HEIGHTS singapore 50004",
+        "name": "POLYART TRADING & SERVICES",
+        "latitude": 1.2817753,
+        "longitude": 103.8429707
+    },
+    {
+        "address": "119 UPPER EAST COAST ROAD singapore 455244",
+        "name": "POOCH'S IMAGE",
+        "latitude": 1.3135546,
+        "longitude": 103.9293725
+    },
+    {
+        "address": "1 JALAN DUSUN ONE DUSUN RESIDENCES singapore 329363",
+        "name": "POSEIDON AQUATICS PTE. LTD.",
+        "latitude": 1.3272937,
+        "longitude": 103.8437471
+    },
+    {
+        "address": "21 KALIDASA AVENUE TEACHER'S HOUSING ESTATE singapore 789400",
+        "name": "PROPET",
+        "latitude": 1.381444,
+        "longitude": 103.8296553
+    },
+    {
+        "address": "231 BAIN STREET BRAS BASAH COMPLEX singapore 180231",
+        "name": "PUPSTARS SINGAPORE PTE. LTD.",
+        "latitude": 1.2966145,
+        "longitude": 103.8540002
+    },
+    {
+        "address": "3 SOUTH BUONA VISTA ROAD VIVA VISTA singapore 118136",
+        "name": "PURRFECT MEOWS",
+        "latitude": 1.2797197,
+        "longitude": 103.7859924
+    },
+    {
+        "address": "1 MARNE ROAD THE CITRON singapore 208380",
+        "name": "PUSHEENLAND",
+        "latitude": 1.3126006,
+        "longitude": 103.8571813
+    },
+    {
+        "address": "80 CHANGI ROAD CENTROPOD @ CHANGI singapore 419715",
+        "name": "Q CATTERY PTE. LTD.",
+        "latitude": 1.3165433,
+        "longitude": 103.900554
+    },
+    {
+        "address": "154 SERANGOON NORTH AVE 1 singapore 550154",
+        "name": "QUE FENG BIRD & PET TRADING ENTERPRISES",
+        "latitude": 1.3697949,
+        "longitude": 103.8735377
+    },
+    {
+        "address": "2 LIM TUA TOW ROAD singapore 547710",
+        "name": "QUE FENG BIRD & PET TRADING ENTERPRISES",
+        "latitude": 1.3537358,
+        "longitude": 103.8774297
+    },
+    {
+        "address": "90 JALAN SENANG singapore 418461",
+        "name": "RAKU INU PTE. LTD.",
+        "latitude": 1.3262756,
+        "longitude": 103.9163833
+    },
+    {
+        "address": "17 DAIRY FARM ROAD THE DAIRY FARM singapore 679043",
+        "name": "REEFING REALITY",
+        "latitude": 1.3653094,
+        "longitude": 103.769605
+    },
+    {
+        "address": "108 OWEN ROAD OWEN COURT singapore 218915",
+        "name": "REEFMARKETSG PTE. LTD.",
+        "latitude": 1.3138118,
+        "longitude": 103.8531724
+    },
+    {
+        "address": "151 SERANGOON NORTH AVENUE 2 singapore 550151",
+        "name": "RES PARADISE",
+        "latitude": 1.3695973,
+        "longitude": 103.8742136
+    },
+    {
+        "address": "321 HOUGANG AVENUE 5 singapore 530321",
+        "name": "RF AQUARIUM",
+        "latitude": 1.3671186,
+        "longitude": 103.8982227
+    },
+    {
+        "address": "48 JALAN LIMBOK NANYANG PARK singapore 548729",
+        "name": "RHQ RABBITHEADQUARTERS LIMITED LIABILITY PARTNERSHIP",
+        "latitude": 1.3649936,
+        "longitude": 103.8753835
+    },
+    {
+        "address": "200 TURF CLUB ROAD THE GRANDSTAND singapore 287994",
+        "name": "ROYALE CRAY SPECIALIST 2",
+        "latitude": 1.3380084,
+        "longitude": 103.7934418
+    },
+    {
+        "address": "114 ANG MO KIO AVE 4 singapore 560114",
+        "name": "SAN SOON PETS SHOP",
+        "latitude": 1.372687,
+        "longitude": 103.8359818
+    },
+    {
+        "address": "123 HOUGANG AVE 1 singapore 530123",
+        "name": "SCRUFFIEZ",
+        "latitude": 1.3534415,
+        "longitude": 103.886366
+    },
+    {
+        "address": "78 INDUS ROAD INDUS GARDEN singapore 161078",
+        "name": "SEA LIFE AQUARIUM",
+        "latitude": 1.2910611,
+        "longitude": 103.8287015
+    },
+    {
+        "address": "443 ANG MO KIO AVENUE 10 singapore 560443",
+        "name": "SEASONAL AQUARIUM PTE. LTD.",
+        "latitude": 1.3661487,
+        "longitude": 103.8552796
+    },
+    {
+        "address": "151 SERANGOON NORTH AVENUE 2 singapore 550151",
+        "name": "SERANGOON NORTH RAINBOW AQUARIUM",
+        "latitude": 1.3695973,
+        "longitude": 103.8742136
+    },
+    {
+        "address": "253 CHOA CHU KANG AVENUE 1 KEAT HONG SHOPPING CENTRE singapore 680253",
+        "name": "SEVEN STAR AQUARIUM",
+        "latitude": 1.3774405,
+        "longitude": 103.744394
+    },
+    {
+        "address": "228 CHANGI ROAD ICON@CHANGI singapore 419741",
+        "name": "SGCATHOUSE",
+        "latitude": 1.3172446,
+        "longitude": 103.9046764
+    },
+    {
+        "address": "631 BALESTIER ROAD singapore 329918",
+        "name": "SHAKE-A-PAW PTE. LTD.",
+        "latitude": 1.3263519,
+        "longitude": 103.8426494
+    },
+    {
+        "address": "3 SOUTH BUONA VISTA ROAD VIVA VISTA singapore 118136",
+        "name": "SHEPHERD & HOUND",
+        "latitude": 1.2797197,
+        "longitude": 103.7859924
+    },
+    {
+        "address": "354 CLEMENTI AVENUE 2 CLEMENTI AVENUE 2 SHOPPING CENTRE singapore 120354",
+        "name": "SHRIMP HUB",
+        "latitude": 1.3135272,
+        "longitude": 103.7708724
+    },
+    {
+        "address": "68 JALAN JURONG KECHIL SUITES AT BUKIT TIMAH singapore 596180",
+        "name": "SHRIMP SANCTUARY AQUATIC",
+        "latitude": 1.3405968,
+        "longitude": 103.7736822
+    },
+    {
+        "address": "801 FRENCH ROAD singapore 200801",
+        "name": "SHRIMPS AFFAIR PTE. LTD.",
+        "latitude": 1.3074653,
+        "longitude": 103.8605309
+    },
+    {
+        "address": "228 CHANGI ROAD ICON@CHANGI singapore 419741",
+        "name": "SIAMESEFISH SINGAPURA",
+        "latitude": 1.3172446,
+        "longitude": 103.9046764
+    },
+    {
+        "address": "46 JALAN LIMBOK NANYANG PARK singapore 548728",
+        "name": "SILKY INTERNATIONAL HOLDINGS PTE. LTD.",
+        "latitude": 1.3650022,
+        "longitude": 103.8754929
+    },
+    {
+        "address": "5 EVERTON PARK singapore 80005",
+        "name": "SIMPLY AQUATICS",
+        "latitude": 1.276695,
+        "longitude": 103.8394141
+    },
+    {
+        "address": "1 WEST COAST DRIVE NEWEST singapore 128020",
+        "name": "SINGAPORE PARADISE AROWANA",
+        "latitude": 1.3164853,
+        "longitude": 103.7573965
+    },
+    {
+        "address": "11 SIN MING ROAD THOMSON V TWO singapore 575629",
+        "name": "SINGAPURA SHRIMP PTE. LTD.",
+        "latitude": 1.353405,
+        "longitude": 103.8357573
+    },
+    {
+        "address": "658 GEYLANG ROAD singapore 389588",
+        "name": "SINMA GLOBAL PTE. LTD.",
+        "latitude": 1.3144004,
+        "longitude": 103.8898503
+    },
+    {
+        "address": "48 JALAN EUNOS singapore 419506",
+        "name": "SMALL MEDIUM LARGE JIAO",
+        "latitude": 1.3211348,
+        "longitude": 103.9054432
+    },
+    {
+        "address": "308 TELOK KURAU ROAD VIBES @ EAST COAST singapore 423858",
+        "name": "SOMETHING FISHY",
+        "latitude": 1.3094781,
+        "longitude": 103.9117599
+    },
+    {
+        "address": "84 BEDOK NORTH STREET 4 singapore 460084",
+        "name": "SONG BIRD'S CENTRE",
+        "latitude": 1.3318119,
+        "longitude": 103.9396416
+    },
+    {
+        "address": "625 BALESTIER ROAD singapore 329915",
+        "name": "SOO KEE KENNEL",
+        "latitude": 1.3263646,
+        "longitude": 103.8427657
+    },
+    {
+        "address": "19 ANAMALAI AVENUE singapore 279987",
+        "name": "SPECIALISED AQUATICS SOLUTIONS PTE. LTD.",
+        "latitude": 1.3308286,
+        "longitude": 103.7947528
+    },
+    {
+        "address": "170 UPPER BUKIT TIMAH ROAD BUKIT TIMAH SHOPPING CENTRE singapore 588179",
+        "name": "SPECTRUM BETTA",
+        "latitude": 1.3431439,
+        "longitude": 103.7758791
+    },
+    {
+        "address": "228 CHANGI ROAD ICON@CHANGI singapore 419741",
+        "name": "SPOTZETTE BENGAL",
+        "latitude": 1.3172446,
+        "longitude": 103.9046764
+    },
+    {
+        "address": "68 JALAN JURONG KECHIL SUITES AT BUKIT TIMAH singapore 596180",
+        "name": "STRAITS CAT CLAN",
+        "latitude": 1.3405968,
+        "longitude": 103.7736822
+    },
+    {
+        "address": "9 CHENCHARU LINK singapore 768147",
+        "name": "SUNBEAM AQUARIUM (PTE) LTD",
+        "latitude": 1.4133304,
+        "longitude": 103.8248103
+    },
+    {
+        "address": "3 SOUTH BUONA VISTA ROAD VIVA VISTA singapore 118136",
+        "name": "SUPERCOON",
+        "latitude": 1.2797197,
+        "longitude": 103.7859924
+    },
+    {
+        "address": "506 MACPHERSON ROAD singapore 368206",
+        "name": "SUPERDOGS PTE. LTD.",
+        "latitude": 1.3321614,
+        "longitude": 103.8836905
+    },
+    {
+        "address": "114 JURONG EAST STREET 13 JURONG EAST VILLE singapore 600114",
+        "name": "SUPREM3 CORALS PRIVATE LIMITED",
+        "latitude": 1.3392112,
+        "longitude": 103.7345734
+    },
+    {
+        "address": "2 JALAN LOKAM KENSINGTON SQUARE singapore 537846",
+        "name": "SUPREM7 CORALS",
+        "latitude": 1.3456397,
+        "longitude": 103.8826924
+    },
+    {
+        "address": "22 BOON KENG ROAD singapore 330022",
+        "name": "SYSTEM & CONTROL ENGINEERING COMPANY",
+        "latitude": 1.3181818,
+        "longitude": 103.8614369
+    },
+    {
+        "address": "14 BEACH ROAD singapore 190014",
+        "name": "TAN AQUARIUM",
+        "latitude": 1.3036691,
+        "longitude": 103.8630107
+    },
+    {
+        "address": "55 CHANGI ROAD MILLAGE singapore 419709",
+        "name": "TCL DISCUS",
+        "latitude": 1.3169742,
+        "longitude": 103.8990086
+    },
+    {
+        "address": "26 TECK WHYE LANE singapore 680026",
+        "name": "TECK WHYE AQUARIUM",
+        "latitude": 1.3775467,
+        "longitude": 103.7556928
+    },
+    {
+        "address": "26 TECK WHYE  LANE singapore 680026",
+        "name": "TECK WOON AQUARIUM",
+        "latitude": 1.3775467,
+        "longitude": 103.7556928
+    },
+    {
+        "address": "618 YISHUN RING ROAD singapore 760618",
+        "name": "THAT AQUARIUM",
+        "latitude": 1.4188027,
+        "longitude": 103.8356195
+    },
+    {
+        "address": "282 & 284 CHANGI ROAD singapore 419761",
+        "name": "THAT AQUARIUM 2 PTE LTD",
+        "latitude": 1.3176464,
+        "longitude": 103.9064839
+    },
+    {
+        "address": "328 CLEMENTI AVENUE 2 singapore 120328",
+        "name": "THAT AQUARIUM 3 PTE. LTD.",
+        "latitude": 1.3139144,
+        "longitude": 103.7670701
+    },
+    {
+        "address": "39 CHAI CHEE AVENUE singapore 461039",
+        "name": "THE BETTA COLLABORATION PRIVATE LIMITED",
+        "latitude": 1.3263307,
+        "longitude": 103.9258641
+    },
+    {
+        "address": "21 JASMINE ROAD ADELPHI PARK ESTATE singapore 576587",
+        "name": "THE BURROW LLP",
+        "latitude": 1.352083,
+        "longitude": 103.819836
+    },
+    {
+        "address": "23 SIN MING ROAD SIN MING VILLE singapore 570023",
+        "name": "THE FISH ACADEMY",
+        "latitude": 1.355143,
+        "longitude": 103.8363022
+    },
+    {
+        "address": "80 CHANGI ROAD CENTROPOD @ CHANGI singapore 419715",
+        "name": "THE LITTLEST THINGS PTE. LTD.",
+        "latitude": 1.3165433,
+        "longitude": 103.900554
+    },
+    {
+        "address": "6 TAMPINES STREET 92 YO:HA@TAMPINES singapore 528893",
+        "name": "THE OASIS SG PTE. LTD.",
+        "latitude": 1.3434187,
+        "longitude": 103.9415563
+    },
+    {
+        "address": "51 CHIN SWEE ROAD singapore 160051",
+        "name": "THE PET RESEARCH OUTPOST",
+        "latitude": 1.2874114,
+        "longitude": 103.842057
+    },
+    {
+        "address": "496 MACPHERSON ROAD singapore 368201",
+        "name": "THE PUP LIFE PTE. LTD.",
+        "latitude": 1.332111,
+        "longitude": 103.8834639
+    },
+    {
+        "address": "142 LORONG AH SOO singapore 530142",
+        "name": "THUNDERBOY PTE. LTD.",
+        "latitude": 1.353003,
+        "longitude": 103.8826371
+    },
+    {
+        "address": "608 ANG MO KIO AVENUE 5 singapore 560608",
+        "name": "TIAN CHAI",
+        "latitude": 1.3787451,
+        "longitude": 103.8369103
+    },
+    {
+        "address": "181 ANG MO KIO AVENUE 5 KEBUN BARU LINK 2 singapore 560181",
+        "name": "TIAN CHAI 181",
+        "latitude": 1.3768573,
+        "longitude": 103.8370688
+    },
+    {
+        "address": "266A JOO CHIAT ROAD singapore 427520",
+        "name": "TIARA PETS (SG) PTE. LTD.",
+        "latitude": 1.3110737,
+        "longitude": 103.9010864
+    },
+    {
+        "address": "56 NEW UPPER CHANGI ROAD singapore 461056",
+        "name": "TJ AQUATIC",
+        "latitude": 1.3251009,
+        "longitude": 103.9409673
+    },
+    {
+        "address": "63 KALLANG BAHRU KALLANG BAHRU VILLE singapore 330063",
+        "name": "TOH AQUARIUM PTE. LTD.",
+        "latitude": 1.3210258,
+        "longitude": 103.8683218
+    },
+    {
+        "address": "608 ANG MO KIO AVENUE 5 singapore  560608",
+        "name": "TRIDENT PETS PTE. LTD.",
+        "latitude": 1.3787451,
+        "longitude": 103.8369103
+    },
+    {
+        "address": "73 KAMPONG BAHRU ROAD singapore 169374",
+        "name": "TRULY DOLLS PTE. LTD.",
+        "latitude": 1.276415,
+        "longitude": 103.8357059
+    },
+    {
+        "address": "68 JALAN JURONG KECHIL SUITES AT BUKIT TIMAH singapore 596180",
+        "name": "UNCLE LIM'S DISCUS AQUARIUM",
+        "latitude": 1.3405968,
+        "longitude": 103.7736822
+    },
+    {
+        "address": "144 TECK WHYE LANE singapore 680144",
+        "name": "UNEED AQUARIUM",
+        "latitude": 1.3808027,
+        "longitude": 103.752585
+    },
+    {
+        "address": "80 CHANGI ROAD CENTROPOD @ CHANGI singapore 419715",
+        "name": "URBAN SHRIMPS LLP",
+        "latitude": 1.3165433,
+        "longitude": 103.900554
+    },
+    {
+        "address": "603 ANG MO KIO AVENUE 5 YIO CHU KANG GREEN singapore 560603",
+        "name": "URBAN SHRIMPS LLP",
+        "latitude": 1.3802994,
+        "longitude": 103.8357338
+    },
+    {
+        "address": "681 PUNGGOL DRIVE OASIS TERRACES singapore 820681",
+        "name": "VEEN IMPEX TRADING",
+        "latitude": 1.4026301,
+        "longitude": 103.9129247
+    },
+    {
+        "address": "399 YUNG SHENG ROAD TAMAN JURONG SHOPPING CENTRE singapore 610399",
+        "name": "VEEN IMPEX TRADING",
+        "latitude": 1.334643,
+        "longitude": 103.7204943
+    },
+    {
+        "address": "118 RIVERVALE DRIVE RIVERVALE PLAZA singapore 540118",
+        "name": "VEEN IMPEX TRADING",
+        "latitude": 1.385387,
+        "longitude": 103.9018653
+    },
+    {
+        "address": "21 HOUGANG STREET 51 HOUGANG GREEN SHOPPING MALL singapore 538719",
+        "name": "VEEN IMPEX TRADING",
+        "latitude": 1.3795596,
+        "longitude": 103.8880715
+    },
+    {
+        "address": "241 JOO CHIAT ROAD singapore 427498",
+        "name": "WAG A TAIL PTE. LTD.",
+        "latitude": 1.3108868,
+        "longitude": 103.9014176
+    },
+    {
+        "address": "328 TANJONG KATONG ROAD singapore 437105",
+        "name": "WELLFOND PETS PTE. LTD.",
+        "latitude": 1.3042209,
+        "longitude": 103.8963772
+    },
+    {
+        "address": "197 UPPER THOMSON ROAD YEW LIAN PARK singapore 574341",
+        "name": "WELLFOND PETS THOMSON LIMITED LIABILITY PARTNERSHIP",
+        "latitude": 1.3517721,
+        "longitude": 103.8353023
+    },
+    {
+        "address": "68 JALAN JURONG KECHIL SUITES AT BUKIT TIMAH singapore 596180",
+        "name": "WILDBOAR^FISHROOM",
+        "latitude": 1.3405968,
+        "longitude": 103.7736822
+    },
+    {
+        "address": "4 SAGO LANE singapore 50004",
+        "name": "WONG LOY KEE AQUARIUM STORE",
+        "latitude": 1.2817753,
+        "longitude": 103.8429707
+    },
+    {
+        "address": "105 DESKER ROAD singapore 209627",
+        "name": "WT COOLING PTE. LTD.",
+        "latitude": 1.3084674,
+        "longitude": 103.8563087
+    },
+    {
+        "address": "80 CHANGI ROAD CENTROPOD @ CHANGI singapore 419715",
+        "name": "XI MEOW PET PTE. LTD.",
+        "latitude": 1.3165433,
+        "longitude": 103.900554
+    },
+    {
+        "address": "291 YISHUN STREET 22 singapore 760291",
+        "name": "XING XING AQUARIUM",
+        "latitude": 1.4363123,
+        "longitude": 103.8367744
+    },
+    {
+        "address": "280 BUKIT BATOK EAST AVE 3 singapore 650280",
+        "name": "YAN PET & AQUARIUM",
+        "latitude": 1.3478798,
+        "longitude": 103.7568434
+    },
+    {
+        "address": "160 CHANGI ROAD HEXACUBE singapore 419728",
+        "name": "YASAM BETTA LLP",
+        "latitude": 1.3167105,
+        "longitude": 103.9024239
+    },
+    {
+        "address": "1 WEST COAST DRIVE NEWEST singapore 128020",
+        "name": "YJH TRADING",
+        "latitude": 1.3164853,
+        "longitude": 103.7573965
+    },
+    {
+        "address": "11 SIN MING ROAD THOMSON V TWO singapore 575629",
+        "name": "YOURS SHRIMPLY PTE. LTD.",
+        "latitude": 1.353405,
+        "longitude": 103.8357573
+    }
+]

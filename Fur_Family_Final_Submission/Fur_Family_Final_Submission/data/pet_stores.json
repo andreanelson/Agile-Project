@@ -1,0 +1,758 @@
+[
+    {
+        "name": "2FUR7 P.E.T STORE",
+        "url": "http://www.twofurseven.com/",
+        "rating": 4.9,
+        "address": "20 Jln Selaseh",
+        "contact": "8123 3296",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipNpoVMJaaJpYCnjDbCxziTRLD4YuigciGUAj4s_=w86-h92-k-no"
+    },
+    {
+        "name": "All With Love",
+        "url": "https://www.allwithlove.com.sg/",
+        "rating": 4.9,
+        "address": "7 Temasek Boulevard 12-07 Suntec Tower One",
+        "contact": "8772 8872",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipNbtFRcvFu4A7eQk6RlZYRaHBsU3jXR0idceKGj=w91-h92-k-no"
+    },
+    {
+        "name": "Barkaberry | Contemporary Online Pet Store",
+        "url": "https://www.barkaberry.com/",
+        "rating": 4.9,
+        "address": "9770 9090",
+        "contact": "Contact not listed",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipN3gz2bmv-VFddQlQ_uK-zuhyORZ_buGeAZM8s=w163-h92-k-no"
+    },
+    {
+        "name": "Benji Pet Kennel",
+        "url": "http://benjipet.com/",
+        "rating": 4.4,
+        "address": "212/214 Joo Chiat Pl",
+        "contact": "6342 3383",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipORHt5a23xqAfE2dYy-T1PCOKe_MkMSeeVmAypy=w138-h92-k-no"
+    },
+    {
+        "name": "Bow Wow Pet Corner Yio Chu Kang Road",
+        "url": "http://www.facebook.com/bowwow.sg",
+        "rating": 4.5,
+        "address": "94 Yio Chu Kang Rd",
+        "contact": "6285 6811",
+        "purpose": "Pet Shop",
+        "image_link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uNFuglpJJVfQEKIhbjpQjQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=277.83377&pitch=0&thumbfov=100"
+    },
+    {
+        "name": "Bubble Pets",
+        "url": "https://www.bubblepets.com.sg/",
+        "rating": 5.0,
+        "address": "1 Tampines North Dr. 1",
+        "contact": "9186 8577",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipP3NU33L2qmznCgFd43ZzLBf_MmMfOHZ4dYO2xi=w122-h92-k-no"
+    },
+    {
+        "name": "Candypets",
+        "url": "https://m.facebook.com/pages/category/Pet-Supplies/Candy-Pets-488545335294789/",
+        "rating": 4.4,
+        "address": "18 Boon Lay Wy, #05-122",
+        "contact": "Contact not listed",
+        "purpose": "Pet supply store",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipN9I6-HLMeE57H9erf1MdmpIEvYb1S0lHmHQRSF=w118-h92-k-no"
+    },
+    {
+        "name": "CatSmart @ Bukit Batok",
+        "url": "https://catsmart.com.sg/",
+        "rating": 4.9,
+        "address": "153 Bukit Batok Street 11, #01-290",
+        "contact": "6270 6866",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipMQ9MHAOZAZcgkwVDwH4Kh1PHMa2rIjHtIkSM0y=w89-h92-k-no"
+    },
+    {
+        "name": "Clubpets \u2013 Your Hub for Pet Care, Events & Festivals in Singapore",
+        "url": "https://www.clubpets.com.sg/",
+        "rating": 3.7,
+        "address": "87 E Coast Rd, #02-01",
+        "contact": "9382 0086",
+        "purpose": "Pet supply store",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipObcSM7WqfDfsSLTAOsBP9L7IPt8Az6FCAIzHst=w122-h92-k-no"
+    },
+    {
+        "name": "CreatureLand.",
+        "url": "http://creaturelandstore.com/",
+        "rating": 5.0,
+        "address": "22 Sin Ming Ln, #08-86 By appt only, Midview City",
+        "contact": "8890 5339",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipPSRaXODPy_orN1GordHTepxk-84kLElN348nmS=w92-h92-k-no"
+    },
+    {
+        "name": "DDhouse Singapore online pet supplies",
+        "url": "http://www.ddhouse.com.sg/",
+        "rating": 5.0,
+        "address": "11 Woodlands Cl, #10-21",
+        "contact": "9889 9957",
+        "purpose": "Pet supply store",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipOobZAy2RUybFKieNUSIG1upTR8ZpijB9TqXX7y=w184-h92-k-no"
+    },
+    {
+        "name": "Doggie Delight",
+        "url": "http://doggiedelight.com.sg/",
+        "rating": 4.7,
+        "address": "28 Greenwood Ave",
+        "contact": "6469 2293",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipOZlrDmNGXQQLdfRKwgj4hbyqJSBKrHQwA4kwRS=w122-h92-k-no"
+    },
+    {
+        "name": "Dress a Pet",
+        "url": "https://www.facebook.com/DressaPet/",
+        "rating": 4.7,
+        "address": "2 Orchard Link, #02-03",
+        "contact": "6636 7467",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipOX65aUP0WBwl1_-X_G9Zy6WCkh_QgsUJY07PvQ=w137-h92-k-no"
+    },
+    {
+        "name": "FluffyPets",
+        "url": "http://fluffypets.online/",
+        "rating": 0.0,
+        "address": "59 Sungei Tengah Rd, #02-14 Blk H",
+        "contact": "8030 8390",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipN37RKZ9yoSz1dU5ArA3TkaDQNvoLKr8ijxHhTR=w80-h103-k-no"
+    },
+    {
+        "name": "For Furry Friends",
+        "url": "http://forfurryfriends.com/",
+        "rating": 4.8,
+        "address": "50 Bukit Batok Street 23, #01-26 Midview Building",
+        "contact": "8688 5070",
+        "purpose": "Pet supply store",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipPEfAal73CPfYilEmOt3pf8AJMf0JoHLTF9WeM4=w80-h92-p-k-no"
+    },
+    {
+        "name": "Gentle Pet Store @ Gambas",
+        "url": "http://www.gentlepetstore.com.sg/",
+        "rating": 3.7,
+        "address": "7 Gambas Cres, #08-09 Ark @ Gambas",
+        "contact": "Contact not listed",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipMuItJdsN_rmhGhuiZGT1Yx1zzmyIyGLTUawCJb=w80-h93-k-no"
+    },
+    {
+        "name": "Good Dog People | Singapore's Better Online Pet Store",
+        "url": "https://gooddogpeople.com/",
+        "rating": 4.8,
+        "address": "240 MacPherson Road, Pines Industrial Building Appointments only, no walk-ins, #06-02",
+        "contact": "3129 2266",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipMpn1C7MV4EIndE7iEMYXCFobS5K5x3w2I33WGV=w163-h92-k-no"
+    },
+    {
+        "name": "Hamster Haven Pet Shop",
+        "url": "https://www.instagram.com/hamster_haven_singapore/",
+        "rating": 4.7,
+        "address": "6001 Beach Rd, #B1-94",
+        "contact": "Contact not listed",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipNBDgyPkRgUsJ6kJEGLVGtWA7Rx4DVXH5gGqFiv=w92-h92-k-no"
+    },
+    {
+        "name": "Happy Town Pets",
+        "url": "http://www.happytownpets.com.sg/",
+        "rating": 4.3,
+        "address": "38 Ang Mo Kio Ind Park 2 Lobby A #03-03",
+        "contact": "8488 7876",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipMMoyf_UNRZzDhSjByY6g69wt1zwrJUpRlsNrpF=w163-h92-k-no"
+    },
+    {
+        "name": "Hill's Pet Nutrition Asia-Pacific Pte. Ltd.",
+        "url": "http://www.hillspet.co.id/en-id/contact-us.html",
+        "rating": 0.0,
+        "address": "350 Orchard Rd",
+        "contact": "6735 3286",
+        "purpose": "Pet Shop",
+        "image_link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iPZ3-ecluqMocJQT6p5B8g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=25.448988&pitch=0&thumbfov=100"
+    },
+    {
+        "name": "Honeypawpet",
+        "url": "https://shopee.sg/honeypawpet",
+        "rating": 0.0,
+        "address": "1 Ang Mo Kio Industrial Park 2A, #02-13 AMK TECH 1",
+        "contact": "Contact not listed",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipPeQBaDkcW8UtheoPmF90kH4OGpgudHGpdCqemY=w92-h92-k-no"
+    },
+    {
+        "name": "House of Chinchilla",
+        "url": "https://houseofchinchilla.business.site/",
+        "rating": 4.4,
+        "address": "154 Serangoon North Ave 1, #01-406",
+        "contact": "6284 9621",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipOKqa9ruRZY6-R5etDQwJyJqjpjnSRYSMyWKKrm=w80-h98-k-no"
+    },
+    {
+        "name": "JEPetz | Online Pet Shop Singapore",
+        "url": "https://www.jepetz.com.sg/",
+        "rating": 4.4,
+        "address": "25 Kaki Bukit Pl",
+        "contact": "9862 1919",
+        "purpose": "Pet Shop",
+        "image_link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F02QO9ozxBixeE37CImgBw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=107.46587&pitch=0&thumbfov=100"
+    },
+    {
+        "name": "Jeja Pets",
+        "url": "http://www.jejapets.com/",
+        "rating": 4.9,
+        "address": "Address not listed",
+        "contact": "Contact not listed",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipPC6SrjztaygY4NC16Z5UAtPBKEzVsF6kS_kZGf=w80-h106-k-no"
+    },
+    {
+        "name": "Kohepets",
+        "url": "https://www.kohepets.com.sg/",
+        "rating": 4.7,
+        "address": "39 Woodlands Cl",
+        "contact": "8511 1605",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipNEeFaGZ8GPrwDp79E1FBuZVNIC3liE_lloS9k6=w92-h92-k-no"
+    },
+    {
+        "name": "Lavish Pet Centre",
+        "url": "https://lavishpetcentre.com/",
+        "rating": 4.0,
+        "address": "1 Rochdale Rd",
+        "contact": "8738 2493",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipMmesBpXM9NgE2jv50-ZpF9sKDtXUDH0OY5TUDP=w122-h92-k-no"
+    },
+    {
+        "name": "Little Flower Pet Shop",
+        "url": "https://www.facebook.com/LittleFlowerPetShop/",
+        "rating": 4.7,
+        "address": "154 Serangoon North Ave 1, #01-416",
+        "contact": "9745 5573",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipMpRPno_ppTy9NSfd4ucHVbX5mS50f8BuQHxKQg=w80-h99-k-no"
+    },
+    {
+        "name": "Little Heroes",
+        "url": "https://thelittleheroes.sg/",
+        "rating": 4.6,
+        "address": "Blk 1 Thomson Rd, #01-338A",
+        "contact": "Contact not listed",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipNotkWh1T_1IWLu7iQ5FJkhUhruVHQOMCQt7-nK=w97-h92-k-no"
+    },
+    {
+        "name": "Mame Pet Store",
+        "url": "https://www.facebook.com/mamepetstore/",
+        "rating": 4.9,
+        "address": "12 Flanders Square",
+        "contact": "9638 5000",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipMjKprZkMgdlC4u3hSMDV5n4OvX_lh2dcvydcpK=w80-h106-k-no"
+    },
+    {
+        "name": "Mogale Pets - Singapore",
+        "url": "http://www.mogalepets.sg/",
+        "rating": 5.0,
+        "address": "12 Holland Ave",
+        "contact": "8616 2204",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipMyx7ZEXVq8K8-rznEBXAP5ITq8lz0O-QcKXF_A=w92-h92-k-no"
+    },
+    {
+        "name": "Mr Pawsome | The Best Your Pet Can Get",
+        "url": "http://mrpawsome.com.sg/",
+        "rating": 5.0,
+        "address": "3016 Bedok North Ave 4, #06-06",
+        "contact": "8788 3890",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipPXWA_uyO99L2DjOB6aleDGppf5Oz983QCZw6z_=w138-h92-k-no"
+    },
+    {
+        "name": "My Pet Store",
+        "url": "http://mypetstoresg.com/",
+        "rating": 4.9,
+        "address": "29 Eng Kong Terrace",
+        "contact": "8115 4811",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipM6zNl75QuAE5WYUhe3JaifAKxoZE_8N8Won-qK=w122-h92-k-no"
+    },
+    {
+        "name": "NNYEO Pet Lifestyle Store",
+        "url": "http://www.nnyeo.com/",
+        "rating": 5.0,
+        "address": "100 Eunos Ave 7, Prior appointment only",
+        "contact": "8511 8538",
+        "purpose": "Pet supply store",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipNk_wPBJL0MbBjmq_yjIvvnTK2Eyj-8yd1NF_RA=w80-h100-k-no"
+    },
+    {
+        "name": "OMO OMO PET SHOP",
+        "url": "https://www.facebook.com/omoomopets/",
+        "rating": 4.8,
+        "address": "259 Upper Thomson Rd",
+        "contact": "8797 7369",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipMhhJ5_V6gu9FE_LjT_rVtiyLYTGPF1YjPgXtCu=w80-h106-k-no"
+    },
+    {
+        "name": "PETS'S KIOSK PET SALON",
+        "url": "http://www.petkiosk.com.sg/",
+        "rating": 4.3,
+        "address": "154 Serangoon North Ave 1, #01-420",
+        "contact": "6344 8558",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipN14mg9n2QXeh65fWZSaZ_1ePww6nrH_L1sDOMx=w194-h92-k-no"
+    },
+    {
+        "name": "PETSTORE SG",
+        "url": "https://shopee.sg/shop/63888299",
+        "rating": 3.1,
+        "address": "2 Gambas Cres, Nordcom ll",
+        "contact": "Contact not listed",
+        "purpose": "Pet supply store",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipOvmXzJ6DDFLfEeH4Wnie8xKX8w-pj85BQHIpMi=w93-h92-k-no"
+    },
+    {
+        "name": "Paradise Pet Shop",
+        "url": "https://www.paradisepet.com.sg/",
+        "rating": 4.6,
+        "address": "18 Sin Ming Ln, #04-07 Midview City",
+        "contact": "6256 2500",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipPM7H7XtpF6b1HGyXQ4ZHC5vu8P2mXKyZNs1Y1Z=w80-h106-k-no"
+    },
+    {
+        "name": "Pawpy Kisses Pet Shop & Pet Grooming Services",
+        "url": "http://www.pawpykisses.com/",
+        "rating": 4.9,
+        "address": "238 Balestier Rd, #01-01, #01-02, #01-03",
+        "contact": "8798 4392",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipNbeXhOiy1bVBXkAhXDzsvYARD6QDiru2NXDRG4=w92-h92-k-no"
+    },
+    {
+        "name": "Pawsncare | Singapore's Best Online Pet Store",
+        "url": "http://www.pawsncare.com/",
+        "rating": 2.3,
+        "address": "69 Brighton Cres",
+        "contact": "8801 8934",
+        "purpose": "Pet food and animal feeds",
+        "image_link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T4sLbsW3O2VwQWkwMV0Jcw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=138.3191&pitch=0&thumbfov=100"
+    },
+    {
+        "name": "Pawsome.SG",
+        "url": "http://pawsome.sg/",
+        "rating": 4.7,
+        "address": "320 Tanjong Katong Rd",
+        "contact": "9844 0356",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipPUmRXTJ_v8UvSXAoS3OQ8pc349X0FN3nXSTOm5=w92-h92-k-no"
+    },
+    {
+        "name": "Pet Fables - Your Furballs, Our Passion",
+        "url": "http://www.petfables.com.sg/",
+        "rating": 4.9,
+        "address": "35 Eng Kong Terrace",
+        "contact": "8875 4786",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipNk52_ZSCI3GWI_JKPxjRttweGARblqs4Ekrdes=w131-h92-k-no"
+    },
+    {
+        "name": "Pet Lovers Centre - 100AM",
+        "url": "https://www.petloverscentre.com/",
+        "rating": 3.9,
+        "address": "100 Tras St, #04 - 03 100 AM",
+        "contact": "6543 6451",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipPLwvYG2nSW_LsOlKZ2AtejWgLZZCwRZfBINIzq=w122-h92-k-no"
+    },
+    {
+        "name": "Pet Lovers Centre - Tanglin Mall",
+        "url": "http://www.petloverscentre.com/",
+        "rating": 3.3,
+        "address": "163 Tanglin Rd, #03-107",
+        "contact": "6737 1083",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipOqGfL7Q9QBsVlJN7GM8zQS9fwmrzKLv2QVukKG=w163-h92-k-no"
+    },
+    {
+        "name": "Pet Me Please SG",
+        "url": "http://petmeplease.sg/",
+        "rating": 5.0,
+        "address": "509 Balestier Rd, Opp Zhongshan Mall",
+        "contact": "8878 4248",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipOhCNz4hlPtM9fKaSMZl3_PEgxjZmAUnIbANFCG=w89-h92-k-no"
+    },
+    {
+        "name": "Pet Protector",
+        "url": "https://www.petprotector.org/?ID=95339",
+        "rating": 0.0,
+        "address": "400 Orchard Rd",
+        "contact": "Contact not listed",
+        "purpose": "Pet supply store",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipPaQAM9-UsVLGOkZqgJEiREQvg-YboefxiCFD7-=w137-h92-k-no"
+    },
+    {
+        "name": "Pet of Mine Pte Ltd",
+        "url": "https://petofmine.sg/",
+        "rating": 5.0,
+        "address": "2 Ruby Ln",
+        "contact": "9663 7663",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipPBmwhdCKMcwci8rqawKu88dmINgd0cJ1An2zi1=w92-h92-k-no"
+    },
+    {
+        "name": "PetMart Pte Ltd",
+        "url": "http://www.petmart.sg/",
+        "rating": 4.2,
+        "address": "151 Serangoon North Ave. 2, #01-79 HDB Serangoon North",
+        "contact": "9450 0947",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipPNqcfx0XLwNeImjcX2zZLCx4j1rO9S578ZuMIR=w122-h92-k-no"
+    },
+    {
+        "name": "Petfolio",
+        "url": "http://petfolio.com.sg/",
+        "rating": 3.4,
+        "address": "253 Changi Rd",
+        "contact": "6746 8644",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipO7i3CoUwR0LWeB7KKpQWj8H97-GV62VkSf1bK9=w163-h92-k-no"
+    },
+    {
+        "name": "Pethub Supply Singapore",
+        "url": "https://www.gmdu.net/corp-737157.html",
+        "rating": 3.0,
+        "address": "48 Toh Guan Rd E",
+        "contact": "9859 4818",
+        "purpose": "Pet Shop",
+        "image_link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ECAu628pIhVi0-uTkLDfpw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=26.807169&pitch=0&thumbfov=100"
+    },
+    {
+        "name": "Pets Atelier",
+        "url": "http://www.facebook.com/petsateliersg",
+        "rating": 3.8,
+        "address": "883 Bukit Timah Rd",
+        "contact": "8838 9683",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipMgXyXiCd7eRETRZfyyDgLkIrrJIF9UxBrd8MCR=w100-h92-k-no"
+    },
+    {
+        "name": "Petsclubsg",
+        "url": "https://shopee.sg/petsclubsg",
+        "rating": 0.0,
+        "address": "6 Clementi Loop",
+        "contact": "Contact not listed",
+        "purpose": "Pet supply store",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipNPQI7YkakMOcNw356WEm_Q2L04_RED7UEZMDPs=w262-h92-k-no"
+    },
+    {
+        "name": "Petsvale Animal Cottage",
+        "url": "https://petsvale-animal-cottage.business.site/?utm_source=gmb&utm_medium=referral",
+        "rating": 4.9,
+        "address": "114 Yio Chu Kang Rd",
+        "contact": "6382 8677",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipO7dmykMcwrVLB-INf2jdxYI-8u3vzvMjVU0W9e=w127-h92-k-no"
+    },
+    {
+        "name": "Petz Planet",
+        "url": "https://www.facebook.com/petzplanetamk",
+        "rating": 4.9,
+        "address": "532 Ang Mo Kio Ave 10, #01-2475",
+        "contact": "6457 7200",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipOAGBP138XjRhwXMc-tm5lhsyMb0uW5R4O4IC5_=w80-h106-k-no"
+    },
+    {
+        "name": "Pick a Pet",
+        "url": "https://m.facebook.com/PickapetSG/",
+        "rating": 3.0,
+        "address": "31 Lor Liput",
+        "contact": "6462 3661",
+        "purpose": "Pet Shop",
+        "image_link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T94GaCI-Ngh3ZcGt7Vt96g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=240.92824&pitch=0&thumbfov=100"
+    },
+    {
+        "name": "Polypet",
+        "url": "http://www.polypet.com.sg/",
+        "rating": 4.5,
+        "address": "109 Clementi Street 11, #01-27/29 Sunset Way Residence",
+        "contact": "6779 5309",
+        "purpose": "Pet supply store",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipPOUHj8skC3I3si_GC4FzTmHJ_I54_0mqxxI5Do=w184-h92-k-no"
+    },
+    {
+        "name": "Propet",
+        "url": "https://propet-petstore.business.site/",
+        "rating": 5.0,
+        "address": "21 Kalidasa Ave",
+        "contact": "9672 8682",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipOndnCKJRAj2vzUUzb_bldpsMMA_NPBqeTyOM-h=w92-h92-k-no"
+    },
+    {
+        "name": "S&S Pet's Shop",
+        "url": "https://snspetshop.com/?utm_source=GMB&utm_medium=GMB_Web&utm_campaign=S%26S+Pet%27s+Shop_GMB_Web",
+        "rating": 4.4,
+        "address": "462 Tampines Street 44",
+        "contact": "6783 7654",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipP4XYRwuPSpgKEsAgWqIOkcKCTKUEPVNpp3Sm81=w80-h142-k-no"
+    },
+    {
+        "name": "SG PetShop",
+        "url": "https://sgpetshop.com/?utm_source=GMB&utm_medium=GMB_Web&utm_campaign=SG+PetShop_GMB_Web",
+        "rating": 4.0,
+        "address": "3 Lor Bakar Batu, #03-04",
+        "contact": "9111 7338",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipMTwfBjWXLvJdhSpZuyyYawE4wqHTf5EmZj1TII=w122-h92-k-no"
+    },
+    {
+        "name": "SG Pets Pte Ltd - Online Pets Food Shop in Singapore",
+        "url": "http://www.sgpets.com.sg/",
+        "rating": 4.6,
+        "address": "30 Shaw Road #01-06 Roche Building",
+        "contact": "6742 2911",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipNyPmiAZuZG1onUNy2qvi2phrz82ww5BWLOMYw9=w92-h92-k-no"
+    },
+    {
+        "name": "SgPetstop [Online Pet Store]",
+        "url": "http://www.sgpetstop.com/",
+        "rating": 4.6,
+        "address": "Blk 165B Punggol Central",
+        "contact": "8228 7208",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipNpMd7h1tuowh0UgbfivJnHjS1lP8qRrVGDfTcQ=w92-h92-k-no"
+    },
+    {
+        "name": "SingPet",
+        "url": "https://www.singpetclub.com/",
+        "rating": 4.4,
+        "address": "8D Dempsey Rd, #01-01",
+        "contact": "6509 4625",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipNYHwnGo9Bn81vN8IcTvGml8kvcfm37lt4XaqI=w122-h92-k-no"
+    },
+    {
+        "name": "SmartPaw",
+        "url": "http://www.sgsmartpaw.com/",
+        "rating": 4.7,
+        "address": "51 Bukit Batok Cres, #07-21 Unity Centre",
+        "contact": "8827 4081",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipPHKRsRCJnMRiVKAF0IEXAr0_9oreAEqwRucX3R=w92-h92-k-no"
+    },
+    {
+        "name": "SuperCoon Pet Store",
+        "url": "https://supercoon.com.sg/",
+        "rating": 0.0,
+        "address": "3 South Buona Vista Rd, B1-63 Viva Vista Mall",
+        "contact": "Contact not listed",
+        "purpose": "Pet Shop",
+        "image_link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t0BKfmsNYSYkRJlaw-n0QQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=242.2763&pitch=0&thumbfov=100"
+    },
+    {
+        "name": "Superpets",
+        "url": "https://www.superpets.sg/",
+        "rating": 4.6,
+        "address": "101 Yishun Ave 5, #01-23 Chong Pang City",
+        "contact": "9367 7774",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipMv61pf6_-QNeCapeSTh1N8wSqexaBshGT0aho8=w122-h92-k-no"
+    },
+    {
+        "name": "Superpets @ TPY",
+        "url": "http://www.superpets.sg/",
+        "rating": 4.7,
+        "address": "Blk 190 Lor 6 Toa Payoh, #01-590 Near KFC",
+        "contact": "9367 7774",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipPAdz3lQRVF4xGJO0C8Um-a3BDi916H0Ve8GqIU=w122-h92-k-no"
+    },
+    {
+        "name": "TailStore | NHV Natural Pet Supplements Singapore Authorized Reseller",
+        "url": "http://tailstore.sg/",
+        "rating": 3.9,
+        "address": "1001 Jalan Bukit Merah, #07-10",
+        "contact": "8831 1884",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipNKQYGXcNAYmUiADj-1TKvfW1wyzRKKhGUD4znH=w196-h92-k-no"
+    },
+    {
+        "name": "The Dogfather",
+        "url": "https://the-dogfather-singapore.business.site/",
+        "rating": 5.0,
+        "address": "59 Sungei Tengah Road 02-04 Block, B",
+        "contact": "8123 5690",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipMYczYCf6sq9cOzodSJHC73xQoZJmKfkmzanYt-=w138-h92-k-no"
+    },
+    {
+        "name": "The Lovely Pets",
+        "url": "https://www.thelovelypets.com/",
+        "rating": 4.5,
+        "address": "46 Jln Limbok",
+        "contact": "9047 2718",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipOG8cszZoDZSqgpAFjcydulAh3gJ69VdD518r-G=w80-h106-k-no"
+    },
+    {
+        "name": "The Paw Lover Sg (Online)",
+        "url": "https://thepawloversg.com/",
+        "rating": 5.0,
+        "address": "490A Choa Chu Kang Ave 5",
+        "contact": "8288 9053",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipMXfxrAI9saB4FKFgDr6k62rWRtT85xpyUiKmT8=w92-h92-k-no"
+    },
+    {
+        "name": "The Pet Safari - NEX",
+        "url": "http://www.thepetsafari.com/sg/store_nex.html",
+        "rating": 4.2,
+        "address": "23 Serangoon Central, #04-03 & #04-71",
+        "contact": "6634 2210",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipNv0f0gqU4kw9mLwf_LsGDc6xJXWDVUiaIfjq0m=w122-h92-k-no"
+    },
+    {
+        "name": "The Pet Safari - VivoCity",
+        "url": "http://www.thepetsafari.com/sg/store_vivo.html",
+        "rating": 4.4,
+        "address": "1 HarbourFront Walk, #03 - 03",
+        "contact": "6376 9508",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipPjTHaZMV-mp5kiViiCb22C3gsxinZX3ZxmMVLI=w162-h92-k-no"
+    },
+    {
+        "name": "The Pet Walk",
+        "url": "https://dadsforlifesg.wordpress.com/2014/05/10/a-visit-to-the-serangoon-pet-walk/",
+        "rating": 4.7,
+        "address": "151a Serangoon North Ave 1, #1",
+        "contact": "Contact not listed",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipMprsgHuCnO3tcb-m-IjAjklQj9wwFjR9eRHRlp=w163-h92-k-no"
+    },
+    {
+        "name": "Tian Chai Petshop",
+        "url": "https://puppiessaleinsingaporepetshop.com/",
+        "rating": 4.1,
+        "address": "608 Ang Mo Kio Ave 5, #01-2783",
+        "contact": "8877 6368",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipOE_QhZEPJAzoYyc1QchEYFKdy5QOzZoXmid4sa=w92-h92-k-no"
+    },
+    {
+        "name": "Vanillapup | Online Pet Store",
+        "url": "https://vanillapup.com/",
+        "rating": 5.0,
+        "address": "314B Punggol Wy, By appt only",
+        "contact": "8784 7920",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipM1qKFAGtR6-S71-jIfPg_VH_jAWWX0s4WPuRye=w92-h92-k-no"
+    },
+    {
+        "name": "Wag A Tail Singapore",
+        "url": "https://www.wagatail.sg/",
+        "rating": 4.6,
+        "address": "241 Joo Chiat Rd",
+        "contact": "8113 5741",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipMR0IgAkXJiJrdDN0nSiBboMN-WfRDc3Oro4cIg=w80-h106-k-no"
+    },
+    {
+        "name": "Wah Wah Pets Pte Ltd",
+        "url": "http://www.wahwahpets.com/",
+        "rating": 5.0,
+        "address": "Space@Kovan, 9 Yio Chu Kang Rd, #01-30",
+        "contact": "8138 3074",
+        "purpose": "Pet supply store",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipOjmcfIQVExb7PKZZO9qLbLHJ07b-LN8JLm7r-V=w80-h106-k-no"
+    },
+    {
+        "name": "Wellfond Pets - Thomson",
+        "url": "http://wellfondpets.com.sg/",
+        "rating": 4.3,
+        "address": "197 Upper Thomson Rd",
+        "contact": "6254 2197",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipNsEcUm9lTm9CmmSF3clLFC4TzVlFM3a5Gduf3t=w80-h106-k-no"
+    },
+    {
+        "name": "Woof Living",
+        "url": "http://www.woofliving.com/",
+        "rating": 5.0,
+        "address": "501 Orchard Rd, #01-K3 Wheelock Place",
+        "contact": "8533 5380",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipNRCJnrGfedRWOY3UM2bDVJocw4f0NQlm0jiKtU=w122-h92-k-no"
+    },
+    {
+        "name": "Woofer & Purrlensky",
+        "url": "https://www.wooferandpurrlensky.com/",
+        "rating": 4.4,
+        "address": "33 Erskine Rd, #01-06",
+        "contact": "6222 0618",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipPMVAWqFtl-RK2qs6HPJfCmspvASwX4EHv-V0jg=w81-h92-k-no"
+    },
+    {
+        "name": "aPetMart \u2013 The Best Online Pet Supply Store In Singapore",
+        "url": "https://www.apetmart.com/",
+        "rating": 4.9,
+        "address": "1014 Geylang East Ave 3, #05-216",
+        "contact": "Contact not listed",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipOgfMBRM4OGMVd3-5qIUXULRlS3lLzOJS3u1MjP=w80-h100-k-no"
+    },
+    {
+        "name": "ilovemypets",
+        "url": "https://ilovemypets-pet-store.business.site/?utm_source=gmb&utm_medium=referral",
+        "rating": 0.0,
+        "address": "blk124 Lor 1 Toa Payoh, #08-461",
+        "contact": "8830 3744",
+        "purpose": "Pet Shop",
+        "image_link": "https://maps.gstatic.com/tactile/pane/result-no-thumbnail-1x.png"
+    },
+    {
+        "name": "perromart | Singapore's No.1 Online Pet Store",
+        "url": "https://perromart.com.sg/",
+        "rating": 3.6,
+        "address": "3 Kallang Way 2A, #07-03 Fong Tat Building",
+        "contact": "8062 1434",
+        "purpose": "Pet food and animal feeds",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipO_e5-gt2_fbaoWWGdMSITEw5YS7yujCjTKfrrW=w80-h99-k-no"
+    },
+    {
+        "name": "woofalicious.shop",
+        "url": "https://woofalicious.shop/",
+        "rating": 0.0,
+        "address": "1 Claymore Dr",
+        "contact": "9677 1057",
+        "purpose": "Pet Shop",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipN-O49cvy3xXmkLnXNuobVNh5SIYDJ3VQB-guNP=w80-h99-k-no"
+    },
+    {
+        "name": "www.doggyfriend.com (DOGGYFRIEND)",
+        "url": "http://www.doggyfriend.com/",
+        "rating": 4.9,
+        "address": "9822 8451",
+        "contact": "Contact not listed",
+        "purpose": "Pet supply store",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipN3xeTZTqilhNjcjfYl2-AUlTncaUEX1oYkDyf7=w103-h92-k-no"
+    }
+]

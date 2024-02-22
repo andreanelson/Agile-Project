@@ -1,0 +1,602 @@
+[
+    {
+        "name": "BEECROFT ANIMAL SPECIALIST & EMERGENCY HOSPITAL",
+        "address": "991E ALEXANDRA ROAD Singapore 119973",
+        "latitude": 1.2732543,
+        "longitude": 103.8028873
+    },
+    {
+        "name": "SINGAPORE TURF CLUB EQUINE HOSPITAL",
+        "address": "1 TURF CLUB AVENUE  S(738078) ",
+        "latitude": 1.4219732,
+        "longitude": 103.7622404
+    },
+    {
+        "name": "VES HOSPITAL (VETERINARY EMERGENCY & SPECIALTY HOSPITAL)",
+        "address": "2 ROCHDALE ROAD S(535815)",
+        "latitude": 1.3431129,
+        "longitude": 103.8837244
+    },
+    {
+        "name": "AAVC - ANIMAL & AVIAN VETERINARY CLINIC",
+        "address": "716 YISHUN STREET 71  S(760716)",
+        "latitude": 1.4264076,
+        "longitude": 103.827649
+    },
+    {
+        "name": "ACACIA VETERINARY CLINIC",
+        "address": "338 ANG MO KIO AVENUE 1  S(560338)",
+        "latitude": 1.363547,
+        "longitude": 103.84855
+    },
+    {
+        "name": "ADVANCED VETCARE @ BALESTIER",
+        "address": "564A BALESTIER ROAD S(329880)",
+        "latitude": 1.3268747,
+        "longitude": 103.8442792
+    },
+    {
+        "name": "ADVANCED VET CARE & PET EMERGENCY",
+        "address": "18 JALAN PARI BURONG  S(488684)",
+        "latitude": 1.3336087,
+        "longitude": 103.9484119
+    },
+    {
+        "name": "ALLPETS & AQUALIFE VETS PTE LTD",
+        "address": "24 JALAN KELULUT  S(809041)",
+        "latitude": 1.3832535,
+        "longitude": 103.8757117
+    },
+    {
+        "name": "AMBER CAT VET PTE LTD",
+        "address": "48 BURNFOOT TERRACE S(459836) ",
+        "latitude": 1.3127014,
+        "longitude": 103.9226777
+    },
+    {
+        "name": "AMBER VETERINARY PRACTICE PTE LTD",
+        "address": "50 BURNFOOT TERRACE  S(459837) ",
+        "latitude": 1.3126422,
+        "longitude": 103.9227259
+    },
+    {
+        "name": "ANIMAL ARK VETERINARY GROUP (ANIMAL ARK BINJAI)",
+        "address": "11 BINJAI PARK BINJAI PARK  S(589823)  ",
+        "latitude": 1.3361475,
+        "longitude": 103.7868676
+    },
+    {
+        "name": "ANIMAL ARK VETERINARY GROUP (ANIMAL ARK TAMPINES)",
+        "address": "139 TAMPINES STREET 11 S(521139)",
+        "latitude": 1.3465107,
+        "longitude": 103.9445593
+    },
+    {
+        "name": "ANIMAL INFIRMARY",
+        "address": "112 LAVENDER STREET  S(338728)",
+        "latitude": 1.3112556,
+        "longitude": 103.8628366
+    },
+    {
+        "name": "ANIMAL MEDICAL CENTRE (VET@RV) PTE LTD",
+        "address": "78 INDUS ROAD  S(161078)",
+        "latitude": 1.2915032,
+        "longitude": 103.8272188
+    },
+    {
+        "name": "ANIMAL RECOVERY VETERINARY CENTRE",
+        "address": "482 SERANGOON ROAD  S(218149) ",
+        "latitude": 1.313843,
+        "longitude": 103.857198
+    },
+    {
+        "name": "ANIMAL WELLNESS CENTRE PTE LTD",
+        "address": "1 VISTA EXCHANGE GREEN  THE STAR  S(138617) ",
+        "latitude": 1.306842,
+        "longitude": 103.78844
+    },
+    {
+        "name": "ANIMAL WORLD VETERINARY CLINIC PTE LTD",
+        "address": "16 YIO CHU KANG ROAD  S(545527) ",
+        "latitude": 1.354612,
+        "longitude": 103.8775355
+    },
+    {
+        "name": "APEX VETERINARY CLINIC",
+        "address": "462 RIVER VALLEY ROAD  S(248347) ",
+        "latitude": 1.293788,
+        "longitude": 103.8267724
+    },
+    {
+        "name": "BARKWAY PET HEALTH PTE. LTD.",
+        "address": "169 MACPHERSON ROAD  S(348535)",
+        "latitude": 1.3298678,
+        "longitude": 103.8738567
+    },
+    {
+        "name": "BEECROFT BIRD & EXOTICS VETERINARY CLINIC",
+        "address": "59 UPPER EAST COAST ROAD  S(455217) ",
+        "latitude": 1.3131909,
+        "longitude": 103.9270547
+    },
+    {
+        "name": "BRIGHTON VET CARE (BUKIT TIMAH) PTE LTD",
+        "address": "611 BUKIT TIMAH ROAD  S(269712) ",
+        "latitude": 1.3243992,
+        "longitude": 103.8094825
+    },
+    {
+        "name": "BRIGHTON VET CARE PTE LTD",
+        "address": "74 SERANGOON GARDEN WAY  S(555970) ",
+        "latitude": 1.3642052,
+        "longitude": 103.8652104
+    },
+    {
+        "name": "CARE VETERINARY CLINIC PTE LTD",
+        "address": "124 LORONG 1 TOA PAYOH  S(310124)",
+        "latitude": 1.3386174,
+        "longitude": 103.8445417
+    },
+    {
+        "name": "CLINIC FOR PETS",
+        "address": "1015 GEYLANG EAST AVENUE 3  S(389730)",
+        "latitude": 1.3185353,
+        "longitude": 103.8900726
+    },
+    {
+        "name": "COMPANION ANIMAL SURGERY PTE LTD",
+        "address": "12 BOON TECK ROAD  S(329586) ",
+        "latitude": 1.326177,
+        "longitude": 103.849662
+    },
+    {
+        "name": "EDMOND TAN VETERINARY SURGERY",
+        "address": "151 SERANGOON NORTH AVENUE 2  S(550151)",
+        "latitude": 1.3690964,
+        "longitude": 103.8726749
+    },
+    {
+        "name": "FRANKEL VETERINARY CENTRE",
+        "address": "101 FRANKEL AVENUE S(458224) ",
+        "latitude": 1.3146139,
+        "longitude": 103.9193985
+    },
+    {
+        "name": "FURIENDS VETERINARY CLINIC",
+        "address": "211B PUNGGOL WALK  PUNGGOL RIPPLES  S(822211) ",
+        "latitude": 1.4010228,
+        "longitude": 103.8989962
+    },
+    {
+        "name": "FURRYTAILS VETERINARY CLINIC PTE LTD",
+        "address": "2 JALAN LOKAM KENSINGTON SQUARE  S(537846)",
+        "latitude": 1.3456397,
+        "longitude": 103.8826924
+    },
+    {
+        "name": "GAIA VETERINARY CENTRE",
+        "address": "5 OPAL CRESCENT  S(328400)",
+        "latitude": 1.3275805,
+        "longitude": 103.8673336
+    },
+    {
+        "name": "GENESIS VETERINARY CLINIC",
+        "address": "935 YISHUN CENTRAL 1  S(760935)",
+        "latitude": 1.4251657,
+        "longitude": 103.8368104
+    },
+    {
+        "name": "GENTLE OAK VETERINARY CLINIC",
+        "address": "21 GHIM MOH ROAD  S(270021)",
+        "latitude": 1.3106477,
+        "longitude": 103.7884371
+    },
+    {
+        "name": "HILLSIDE VETERINARY SURGERY PTE LTD",
+        "address": "787A UPPER SERANGOON ROAD  S(534655)  ",
+        "latitude": 1.355462,
+        "longitude": 103.8793532
+    },
+    {
+        "name": "HOPE VETERINARY CARE",
+        "address": "1017 UPPER SERANGOON ROAD  S(534755) ",
+        "latitude": 1.3576474,
+        "longitude": 103.8824703
+    },
+    {
+        "name": "ISLAND VETERINARY CLINIC (NORTHEAST) PTE LTD",
+        "address": "123 BEDOK NORTH STREET 2  S(460123) ",
+        "latitude": 1.3291933,
+        "longitude": 103.9372982
+    },
+    {
+        "name": "ISLAND VETERINARY CLINIC PTE LTD",
+        "address": "114 JURONG EAST STREET 13  S(600114) ",
+        "latitude": 1.339154,
+        "longitude": 103.734525
+    },
+    {
+        "name": "JAMES TAN VETERINARY CENTRE PTE LTD",
+        "address": "230 WHITLEY ROAD  S(297823)",
+        "latitude": 1.3260341,
+        "longitude": 103.8273555
+    },
+    {
+        "name": "JIREH VETERINARY CLINIC PTE LTD",
+        "address": "530 BALESTIER ROAD  S(329857)",
+        "latitude": 1.3272285,
+        "longitude": 103.8455834
+    },
+    {
+        "name": "LANDON VETERINARY SPECIALISTS",
+        "address": "41 ENG KONG TERRACE  S(599013)",
+        "latitude": 1.3361931,
+        "longitude": 103.768891
+    },
+    {
+        "name": "LIGHT OF LIFE VETERINARY CLINIC & SERVICES LLP",
+        "address": "703 BEDOK RESERVOIR ROAD  S(470703)",
+        "latitude": 1.3371744,
+        "longitude": 103.9199307
+    },
+    {
+        "name": "MARANATHA VETERINARY CLINIC",
+        "address": "7 TELOK BLANGAH DRIVE  S(100077)  ",
+        "latitude": 1.2727769,
+        "longitude": 103.811419
+    },
+    {
+        "name": "MONSTER PET VET",
+        "address": "6 EVERTON PARK  S(080006) ",
+        "latitude": 1.2767851,
+        "longitude": 103.8390921
+    },
+    {
+        "name": "MOUNT PLEASANT ANIMAL MEDICAL CENTRE (2004) PTE LTD",
+        "address": "105 CLEMENTI STREET 12  S(120105)  ",
+        "latitude": 1.322682,
+        "longitude": 103.7698766
+    },
+    {
+        "name": "MOUNT PLEASANT ANIMAL MEDICAL CENTRE (BEDOK) PTE LTD",
+        "address": "158 BEDOK SOUTH AVENUE 3  S(460158)",
+        "latitude": 1.318767,
+        "longitude": 103.9450805
+    },
+    {
+        "name": "MOUNT PLEASANT ANIMAL MEDICAL CENTRE (FARRER) PTE LTD",
+        "address": "3 QUEEN'S ROAD  S(260003)",
+        "latitude": 1.3182997,
+        "longitude": 103.8079853
+    },
+    {
+        "name": "MOUNT PLEASANT VETERINARY CENTRE (2008) PTE LTD",
+        "address": "2 JALAN GELENGGANG  S(578187)",
+        "latitude": 1.3731079,
+        "longitude": 103.8298454
+    },
+    {
+        "name": "MOUNT PLEASANT VETERINARY CENTRE (CHANGI) PTE LTD",
+        "address": "848 SIMS AVENUE   S(400848) ",
+        "latitude": 1.3171801,
+        "longitude": 103.9013037
+    },
+    {
+        "name": "MOUNT PLEASANT VETERINARY CENTRE (EAST) PTE.LTD.",
+        "address": "152 EAST COAST ROAD Singapore 428855",
+        "latitude": 1.3062149,
+        "longitude": 103.9057087
+    },
+    {
+        "name": "MOUNT PLEASANT VETERINARY CENTRE (MANDAI) PTE. LTD.",
+        "address": "236 YISHUN RING ROAD Singapore 760236",
+        "latitude": 1.4337945,
+        "longitude": 103.8390049
+    },
+    {
+        "name": "MOUNT PLEASANT VETERINARY CENTRE (NORTH) PTE LTD",
+        "address": "151 SERANGOON NORTH AVENUE 2  S(550151) ",
+        "latitude": 1.3690964,
+        "longitude": 103.8726749
+    },
+    {
+        "name": "MY FAMILY VET CLINIC AND SURGERY PTE LTD",
+        "address": "265 BUKIT BATOK EAST AVENUE 4  S(650265) ",
+        "latitude": 1.3500846,
+        "longitude": 103.7599408
+    },
+    {
+        "name": "NAM SANG VETERINARY CLINIC PTE LTD",
+        "address": "2 BALESTIER ROAD  S(320002) ",
+        "latitude": 1.3258546,
+        "longitude": 103.8428618
+    },
+    {
+        "name": "NAMLY ANIMAL CLINIC PTE LTD",
+        "address": "74 NAMLY PLACE  S(267223) ",
+        "latitude": 1.3242367,
+        "longitude": 103.7966032
+    },
+    {
+        "name": "OASIS VET",
+        "address": "15 VENUS ROAD WINDSOR PARK  S(574302)",
+        "latitude": 1.358237,
+        "longitude": 103.8276489
+    },
+    {
+        "name": "OHANA VETCARE",
+        "address": "258 PASIR RIS STREET 21  S(510258)",
+        "latitude": 1.3669641,
+        "longitude": 103.9645341
+    },
+    {
+        "name": "P.A.W. (PEOPLE ANIMAL WELLNESS) VETERINARY CENTRE PTE LTD",
+        "address": "112 BUKIT PURMEI ROAD  S(090112) ",
+        "latitude": 1.2745295,
+        "longitude": 103.8259281
+    },
+    {
+        "name": "PASSION VETERINARY CLINIC PTE LTD",
+        "address": "111 WOODLANDS STREET 13  S(730111) ",
+        "latitude": 1.4379153,
+        "longitude": 103.7820991
+    },
+    {
+        "name": "PERROVETS",
+        "address": "416 ANG MO KIO AVENUE 10 S(560416)",
+        "latitude": 1.3645847,
+        "longitude": 103.8550943
+    },
+    {
+        "name": "PET CARE CENTRE & CLINIC PTE LTD",
+        "address": "4 WARINGIN PARK  S(416318) ",
+        "latitude": 1.3222328,
+        "longitude": 103.9181562
+    },
+    {
+        "name": "PET CLINIC PTE LTD",
+        "address": "211 SERANGOON AVENUE 4  S(550211) ",
+        "latitude": 1.3562906,
+        "longitude": 103.8732338
+    },
+    {
+        "name": "PETS AVENUE VETERINARY CLINIC",
+        "address": "8 EMPRESS ROAD  S(260008) ",
+        "latitude": 1.3171085,
+        "longitude": 103.8064615
+    },
+    {
+        "name": "PETS AVENUE VETERINARY CLINIC",
+        "address": "50 JALAN JURONG KECHIL JK BUILDING  S(598578)",
+        "latitude": 1.3404835,
+        "longitude": 103.7742914
+    },
+    {
+        "name": "PETS AVENUE VETERINARY CLINIC",
+        "address": "193 UPPER THOMSON ROAD  S(574338)",
+        "latitude": 1.3516859,
+        "longitude": 103.8352799
+    },
+    {
+        "name": "POINT VETERINARY SURGERY",
+        "address": "541 JURONG WEST AVENUE 1  S(640541) ",
+        "latitude": 1.3511912,
+        "longitude": 103.7161143
+    },
+    {
+        "name": "POINT VETERINARY SURGERY (TELOK BLANGAH)",
+        "address": "38 TELOK BLANGAH RISE  S(090038)",
+        "latitude": 1.2725081,
+        "longitude": 103.8223965
+    },
+    {
+        "name": "QUEEN'S VET",
+        "address": "3 QUEEN'S ROAD  FARRER GARDENS  S(260003)",
+        "latitude": 1.3182348,
+        "longitude": 103.8071827
+    },
+    {
+        "name": "REHABVET",
+        "address": "513 SERANGOON ROAD S(218154)",
+        "latitude": 1.314668,
+        "longitude": 103.857401
+    },
+    {
+        "name": "SINGAPORE VETERINARY ANIMAL CLINIC",
+        "address": "768 WOODLANDS AVENUE 6 S(730768)",
+        "latitude": 1.4454883,
+        "longitude": 103.79799
+    },
+    {
+        "name": "SPCA",
+        "address": "50 SUNGEI TENGAH ROAD  S(699012)",
+        "latitude": 1.3807299,
+        "longitude": 103.7320052
+    },
+    {
+        "name": "SPRING VETERINARY CARE",
+        "address": "123 HOUGANG AVENUE 1  S(530123) ",
+        "latitude": 1.3534415,
+        "longitude": 103.886366
+    },
+    {
+        "name": "SPRING VETERINARY CARE @ PUNGGOL",
+        "address": "681 PUNGGOL DRIVE  OASIS TERRACES  S(820681)",
+        "latitude": 1.4026301,
+        "longitude": 103.9129247
+    },
+    {
+        "name": "STARS VETERINARY CLINIC PTE LTD",
+        "address": "211 HOUGANG STREET 21  S(530211)",
+        "latitude": 1.3595831,
+        "longitude": 103.8877112
+    },
+    {
+        "name": "SUNSHINE VET CARE PTE. LTD",
+        "address": "681 HOUGANG AVENUE 8  S(530681)",
+        "latitude": 1.3727416,
+        "longitude": 103.8859111
+    },
+    {
+        "name": "THE ANIMAL CLINIC PTE LTD",
+        "address": "109 CLEMENTI STREET 11  S(120109)",
+        "latitude": 1.3222655,
+        "longitude": 103.770609
+    },
+    {
+        "name": "THE ANIMAL CLINIC PTE LTD (KATONG)",
+        "address": "55 LORONG L  TELOK KURAU  S(425500) ",
+        "latitude": 1.3117354,
+        "longitude": 103.9103785
+    },
+    {
+        "name": "THE ANIMAL DOCTORS (TIONG BAHRU) PTE LTD",
+        "address": "11A BOON TIONG ROAD  S(161011)",
+        "latitude": 1.286422,
+        "longitude": 103.8291559
+    },
+    {
+        "name": "THE ANIMAL DOCTORS PTE LTD",
+        "address": "108 ANG MO KIO AVENUE 4 S(560108)",
+        "latitude": 1.3709152,
+        "longitude": 103.8382463
+    },
+    {
+        "name": "THE CAT CLINIC",
+        "address": "109 CLEMENTI STREET 11  S(120109)",
+        "latitude": 1.3222655,
+        "longitude": 103.770609
+    },
+    {
+        "name": "THE CAT VET",
+        "address": "2 Pandan Valley S(597626)",
+        "latitude": 1.3204891,
+        "longitude": 103.7790434
+    },
+    {
+        "name": "THE JOYOUS VET PTE LTD",
+        "address": "475 CHOA CHU KANG AVE 3  S(680475)",
+        "latitude": 1.3780266,
+        "longitude": 103.7389881
+    },
+    {
+        "name": "THE JOYOUS VET PTE LTD",
+        "address": "1 YUAN CHING ROAD S(618640)",
+        "latitude": 1.3263056,
+        "longitude": 103.7246177
+    },
+    {
+        "name": "THE PET DOCTORS VETERINARY CLINIC PTE LTD",
+        "address": "3 PANDAN VALLEY  S(597627)",
+        "latitude": 1.3199194,
+        "longitude": 103.7794734
+    },
+    {
+        "name": "THE VETERINARY CLINIC @ TAMPINES PTE LTD",
+        "address": "476 TAMPINES STREET 44  S(520476)",
+        "latitude": 1.3609703,
+        "longitude": 103.9533971
+    },
+    {
+        "name": "THE VETERINARY CLINIC PTE LTD (HOLLAND VILLAGE)",
+        "address": "31 LORONG LIPUT  S(277742) ",
+        "latitude": 1.3106843,
+        "longitude": 103.7949565
+    },
+    {
+        "name": "THE VISITING VETS CLINIC",
+        "address": "9 TAMAN SERASI  S(257720) ",
+        "latitude": 1.3084205,
+        "longitude": 103.8191979
+    },
+    {
+        "name": "TOWN VETS ANIMAL CLINIC PTE LTD",
+        "address": "22 HAVELOCK ROAD  S(160022)  ",
+        "latitude": 1.288844,
+        "longitude": 103.8287358
+    },
+    {
+        "name": "TP ANIMAL CLINIC",
+        "address": "21 TAMPINES AVENUE 1  TEMASEK POLYTECHNIC  S(529757)",
+        "latitude": 1.345315,
+        "longitude": 103.931822
+    },
+    {
+        "name": "UNITED VETERINARY CLINIC PTE LTD",
+        "address": "107 ANG MO KIO AVENUE 4  KEBUN BARU HEIGHTS  S(560107) ",
+        "latitude": 1.3714168,
+        "longitude": 103.8372427
+    },
+    {
+        "name": "VET AFFINITY PTE LTD",
+        "address": "151 BUKIT BATOK STREET 11 S(650151) ",
+        "latitude": 1.3487581,
+        "longitude": 103.7442612
+    },
+    {
+        "name": "VET CENTRAL PTE LTD",
+        "address": "69 LORONG 4 TOA PAYOH  S(310069) ",
+        "latitude": 1.3341946,
+        "longitude": 103.8527221
+    },
+    {
+        "name": "VET PRACTICE PTE LTD",
+        "address": "21 LORONG KILAT  S(598123)",
+        "latitude": 1.340877,
+        "longitude": 103.7730952
+    },
+    {
+        "name": "VET PRACTICE PTE LTD (HOLLAND BRANCH)",
+        "address": "31 HOLLAND CLOSE  S(270031) ",
+        "latitude": 1.3070686,
+        "longitude": 103.7971071
+    },
+    {
+        "name": "VETERINARY REHABILITATION AND HYDROTHERAPY CENTRE",
+        "address": "631 BALESTIER ROAD  S(329918) ",
+        "latitude": 1.3263519,
+        "longitude": 103.8426494
+    },
+    {
+        "name": "VETS FOR LIFE ANIMAL CLINIC PTE LTD",
+        "address": "330B TANJONG KATONG ROAD  S(437106) ",
+        "latitude": 1.304144,
+        "longitude": 103.8964
+    },
+    {
+        "name": "VETS FOR LIFE ANIMAL CLINIC PTE LTD",
+        "address": "491 RIVER VALLEY ROAD  S(248371)  ",
+        "latitude": 1.2928755,
+        "longitude": 103.827015
+    },
+    {
+        "name": "VETS FOR LIFE ANIMAL CLINIC PTE LTD",
+        "address": "182 JALAN JURONG KECHIL  THE HILLFORD  S(596152)",
+        "latitude": 1.3440498,
+        "longitude": 103.769805
+    },
+    {
+        "name": "VETS FOR PETS",
+        "address": "519 JURONG WEST STREET 52  S(640519) ",
+        "latitude": 1.3456884,
+        "longitude": 103.7175611
+    },
+    {
+        "name": "WEST COAST VETCARE PTE LTD",
+        "address": "612 CLEMENTI WEST STREET 1 S(120612) ",
+        "latitude": 1.303383,
+        "longitude": 103.7683654
+    },
+    {
+        "name": "WHITLEY ANIMAL MEDICAL CENTRE PTE LTD",
+        "address": "232 WHITLEY ROAD MOUNT PLEASANT ANIMAL HOSPITAL S(297824) ",
+        "latitude": 1.3256514,
+        "longitude": 103.8272562
+    },
+    {
+        "name": "WOODGROVE VETERINARY SERVICES PTE. LTD.",
+        "address": "30 WOODLANDS AVENUE 1  S(739065) ",
+        "latitude": 1.4292977,
+        "longitude": 103.7811477
+    }
+]

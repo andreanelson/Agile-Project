@@ -1,0 +1,236 @@
+[
+    {
+        "name": "Surrpaws Pet Shop & Pet Grooming Sembawang",
+        "address": "590 Montreal Link, Singapore 750590",
+        "latitude": 1.4506512,
+        "longitude": 103.8266301
+    },
+    {
+        "name": "My Pet Image",
+        "address": "925 Yishun Central 1, Singapore 760925",
+        "latitude": 1.4278026,
+        "longitude": 103.8372267
+    },
+    {
+        "name": "Pocket Pets Grooming",
+        "address": "Blk 785D Woodlands Rise, 734785",
+        "latitude": 1.4455844,
+        "longitude": 103.8056947
+    },
+    {
+        "name": "TWOFURSEVEN P.E.T STORE (2FUR7)",
+        "address": "20 Jln Selaseh, Singapore 808442",
+        "latitude": 1.3856436,
+        "longitude": 103.872959
+    },
+    {
+        "name": "The Pawlour",
+        "address": "48 Lor 1 Realty Park, Singapore 536962",
+        "latitude": 1.3676244,
+        "longitude": 103.8900175
+    },
+    {
+        "name": "Pet Pat (Cats Only)",
+        "address": "183 Jln Pelikat, Singapore 537643",
+        "latitude": 1.3554603,
+        "longitude": 103.8881644
+    },
+    {
+        "name": "Scruffiez (Rabbits & Guinea Pigs Only)",
+        "address": "123 Hougang Ave 1, Singapore 530123",
+        "latitude": 1.3534415,
+        "longitude": 103.886366
+    },
+    {
+        "name": "Sopra Ginza (River Valley)",
+        "address": "236 River Valley Rd, Singapore 238294",
+        "latitude": 1.2941287,
+        "longitude": 103.8424316
+    },
+    {
+        "name": "Petpawroni (Sentosa)",
+        "address": "31 Ocean Way, 098375",
+        "latitude": 1.2479283,
+        "longitude": 103.8417309
+    },
+    {
+        "name": "Nekomori Cat Grooming Salon Singapore (Cats Only)",
+        "address": "59A Kampong Bahru Rd, Singapore 169367",
+        "latitude": 1.2766454,
+        "longitude": 103.8359746
+    },
+    {
+        "name": "Pawmises",
+        "address": "502 MacPherson Rd, Singapore 368204",
+        "latitude": 1.3321253,
+        "longitude": 103.8835999
+    },
+    {
+        "name": "The Grooming Loft",
+        "address": "476 Tampines Street 44, Singapore 520476",
+        "latitude": 1.3609703,
+        "longitude": 103.9533971
+    },
+    {
+        "name": "Pet Master (Simei)",
+        "address": "3 Simei Street 6, Singapore 528833 ",
+        "latitude": 1.3427303,
+        "longitude": 103.9530181
+    },
+    {
+        "name": "Pet Master (Bedok)",
+        "address": "Blk 206 Bedok North Street 1, Singapore 460206",
+        "latitude": 1.3265574,
+        "longitude": 103.9309852
+    },
+    {
+        "name": "Benji Pet Kennel",
+        "address": "212/214 Joo Chiat Pl, Singapore 427923",
+        "latitude": 1.3143557,
+        "longitude": 103.9068343
+    },
+    {
+        "name": "Bubbly Petz",
+        "address": "266 Joo Chiat Rd, Singapore 427520",
+        "latitude": 1.3110737,
+        "longitude": 103.9010864
+    },
+    {
+        "name": "BreakFast at Fluffy\u2019s Boutique Pet Hotel & Grooming",
+        "address": "318 Joo Chiat Rd, Singapore 427569",
+        "latitude": 1.3093902,
+        "longitude": 103.9023284
+    },
+    {
+        "name": "Barkber Shop Singapore",
+        "address": "914 East Coast Road, Singapore 459108",
+        "latitude": 1.3125021,
+        "longitude": 103.9243833
+    },
+    {
+        "name": "Masmasgroomers Pet Grooming Centre",
+        "address": "Blk 551 Bedok North Ave 1, Singapore 460551",
+        "latitude": 1.3322344,
+        "longitude": 103.9270468
+    },
+    {
+        "name": "Pets Eden Spa & Salon",
+        "address": "29 Everitt Rd, Singapore 428576",
+        "latitude": 1.3132879,
+        "longitude": 103.9023799
+    },
+    {
+        "name": "Hanis The Groomer (Cats Only)",
+        "address": "264 Tampines Street 21, Singapore 520264",
+        "latitude": 1.3528219,
+        "longitude": 103.9511542
+    },
+    {
+        "name": "Pawpy Kisses",
+        "address": "238 Balestier Rd, Singapore 329701",
+        "latitude": 1.3218524,
+        "longitude": 103.8533038
+    },
+    {
+        "name": "Raku Inu",
+        "address": "108 Ang Mo Kio Ave 4, Singapore 560108",
+        "latitude": 1.3709152,
+        "longitude": 103.8382463
+    },
+    {
+        "name": "Petitudo",
+        "address": "15 Thomson Hills Dr, Singapore 574759",
+        "latitude": 1.3785722,
+        "longitude": 103.8320871
+    },
+    {
+        "name": "Doggylicious Studio",
+        "address": "Block 330 Ang Mo Kio Ave 1, Singapore 560330",
+        "latitude": 1.363592,
+        "longitude": 103.8473986
+    },
+    {
+        "name": "Pawparazzi Pet Grooming Salon",
+        "address": "398 Upper Paya Lebar Rd, Singapore 534986",
+        "latitude": 1.349652,
+        "longitude": 103.8801642
+    },
+    {
+        "name": "Shaggy Hangout",
+        "address": "9 Siang Kuang Ave, Singapore 347927",
+        "latitude": 1.3291892,
+        "longitude": 103.8704145
+    },
+    {
+        "name": "Petronize Grooming Salon",
+        "address": "Blk 18 Upper Boon Keng Rd, Singapore 380018",
+        "latitude": 1.3150764,
+        "longitude": 103.8723988
+    },
+    {
+        "name": "Animal Arts Academy (Serangoon Gardens)",
+        "address": "9 Kensington Park Rd, Singapore 557261",
+        "latitude": 1.3650027,
+        "longitude": 103.8661168
+    },
+    {
+        "name": "Fursclass Pet Grooming Salon",
+        "address": "122 Owen Rd, Singapore 218926",
+        "latitude": 1.3140039,
+        "longitude": 103.8529524
+    },
+    {
+        "name": "Mewtants & Woofs",
+        "address": "9 King Albert Park,  Singapore 598332",
+        "latitude": 1.3370239,
+        "longitude": 103.7794324
+    },
+    {
+        "name": "June\u2019s Pethouse",
+        "address": "5 Eng Kong Terrace, Singapore 598977",
+        "latitude": 1.3364733,
+        "longitude": 103.7687105
+    },
+    {
+        "name": "The Collar Club Singapore",
+        "address": "478 River Valley Rd, Singapore 248363",
+        "latitude": 1.293571,
+        "longitude": 103.8263239
+    },
+    {
+        "name": "The Grooming Table",
+        "address": "55 Lengkok Bahru, Singapore 151055",
+        "latitude": 1.2875387,
+        "longitude": 103.8135205
+    },
+    {
+        "name": "Mewtants & Woofs (Tiong Bahru)",
+        "address": "70 Seng Poh Ln, Singapore 160070",
+        "latitude": 1.2840809,
+        "longitude": 103.8326915
+    },
+    {
+        "name": "Dollhouse Pets",
+        "address": "7 Kampong Bahru Rd, Singapore 169342",
+        "latitude": 1.2772288,
+        "longitude": 103.8368077
+    },
+    {
+        "name": "Hachi By Tokyo",
+        "address": "Block 21, Singapore, 270021",
+        "latitude": 1.3106477,
+        "longitude": 103.7884371
+    },
+    {
+        "name": "Beyond Paws",
+        "address": "1 W Coast Dr, Singapore 128020",
+        "latitude": 1.3164853,
+        "longitude": 103.7573965
+    },
+    {
+        "name": "Bukit Barkdog Grooming",
+        "address": "Blk 109 Bukit Batok West Ave 6,  Singapore 650109",
+        "latitude": 1.3469891,
+        "longitude": 103.7461618
+    }
+]
